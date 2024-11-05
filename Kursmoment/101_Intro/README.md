@@ -3,8 +3,7 @@ Undelag för dagens lektion hittar ni här:
 
 UI https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder
 
-SOPS https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP#grundl%C3%A4ggande-geometri
-
+SOPS https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP
 Dagens Minuppgift: 
 
 1 Klicka dig runt och skapa några noden
