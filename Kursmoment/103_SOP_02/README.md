@@ -45,5 +45,5 @@ Bygg ett vattentorn procedurellt.
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Houdini HScript and Channel Referencing**](https://youtube.com/playlist?list=PLSET4TyKEfn9TLeA9wunf_-yEbhg-Rctf&si=P9WlndEVBUtCFyKj)
+- [**Using Expressions in Parameters**](https://www.houdinikitchen.net/2019/05/05/using-expressions-in-parameters/)
