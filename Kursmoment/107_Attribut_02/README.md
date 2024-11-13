@@ -1,4 +1,4 @@
-Vi fortsätter med attribut och går på vektorer. https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut#datatyper
+Vi fortsätter med attribut och går på vektorer (se länk 1).
 
 En vektor i Houdini är en samling av floats, vanligtvis 3st, vi skriver ut den på följande vis {float0, float1, float2}
 
@@ -8,6 +8,9 @@ När man pratar om en vektor som en position så kallar man oftast komponenterna
 man om RGB eller ibland HSV. Det som är viktigt att förstå är att det bara är data som är packad på ett visst sätt och en 
 färgvektor kan lika gärna läsas som en positionsvektor. 
 
-Här finns mer info om attribut som använder vektorer: https://www.sidefx.com/docs/houdini/model/attributes.html#attributes
+Här finns mer info om attribut som använder vektorer: 
 
 Vi kommer primärt att arbeta med vektorer för att styra orienteringen för instanser. 
+
+Länk1 : Mer info om datatyper: https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut#datatyper
+Länk2: Mer info om attribut och dess typer: https://www.sidefx.com/docs/houdini/model/attributes.html#attributes
