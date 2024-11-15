@@ -4,6 +4,6 @@ Idag reperterar vi vad vi gjort tidigare och pratar om kursens upplägg och stru
 Den här dagen är inte ett kursmoment så det finns inte en egen gitsida för den.
 
 **Dagens miniuppgift:**
-
+Vi bygger en låd i olika material 
 
 
