@@ -46,7 +46,6 @@ Ordlista: https://github.com/Studio-Konkret/Technical-Direction/wiki/Ordlista
 ___
 ### **Inspelning och hip-fil**
 **[Dagens Inspelning](https://us02web.zoom.us/rec/share/oV2JA636nzA4991OtaP1iM3S3guKZzR-if4T4twMay2MiSioaF-3zLSGWWQl8hYe.a2jXwJouPW_OIxdn)**
-
 Lösenkod: mb7fTW%v
 ___
 
