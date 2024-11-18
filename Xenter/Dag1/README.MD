@@ -18,6 +18,6 @@ Syfte: Att repetera tidgare använda noder och navigera i programmet.
 - Gå igenom githuben och bekanata er med schemat
 
 relevanta länkar 
-Sops - surface level operators [https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP]
+Sops - surface level operators https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP
 
 
