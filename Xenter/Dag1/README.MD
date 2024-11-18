@@ -23,8 +23,9 @@ ___
 ### **Dagens miniuppgift:**
 Bygga en trälåda. 
 Syfte: Att repetera tidgare använda noder och navigera i programmet.
+___
 
-**Dagens Hemuppgift**
+###**Dagens Hemuppgift**
 - Vi slutför miniuppgiften. 
 
 - Fundera kring vad ni vill ha ut av kursen:
