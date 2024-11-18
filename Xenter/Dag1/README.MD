@@ -45,5 +45,5 @@ DagensInspelning: **[zoom inspelning](https://us02web.zoom.us/rec/share/oV2JA636
 
 Lösenkod: mb7fTW%v
 
-DagensHipfil: **https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag1/Dag1.hipnc**
+Dagens **[Hipfil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag1/Dag1.hipnc)**
 
