@@ -17,7 +17,7 @@ Syfte: Att repetera tidgare använda noder och navigera i programmet.
 -- Vad har ni för förväntingar
 - Gå igenom githuben och bekanata er med schemat
 
-relevanta länkar 
+Relevanta länkar 
 Sops - surface level operators https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP
 
 
