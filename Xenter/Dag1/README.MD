@@ -41,7 +41,8 @@ Sops - surface level operators https://github.com/Studio-Konkret/Technical-Direc
 
 Ordlista: https://github.com/Studio-Konkret/Technical-Direction/wiki/Ordlista
 
-DagensInspelning: *kommer snart*
+DagensInspelning: **[zoom inspelning](https://us02web.zoom.us/rec/share/oV2JA636nzA4991OtaP1iM3S3guKZzR-if4T4twMay2MiSioaF-3zLSGWWQl8hYe.a2jXwJouPW_OIxdn 
+Lösenkod: mb7fTW%v)**
 
-DagensHipfil: *kommer snart*
+DagensHipfil: **https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag1/Dag1.hipnc**
 
