@@ -15,12 +15,26 @@ Här är schemat: https://docs.google.com/spreadsheets/d/1TaFk-RNorVnihuYdQ94TR_
 
 DAG 1 - repetition 24-11-18 09:00-15:00
 
-DAG 2 - HDA 24-11-20 09:00-15:00
+DAG 2 - HDA 101 24-11-20 09:00-15:00
 
-DAG 3 - Attribut 1 24-11-22 09:00-15:00
+DAG 3 - Attribut 101 24-11-22 09:00-15:00
 
-DAG 4 - Attribut 2 24-11-25 09:30-15:30
+DAG 4 - Attribut 102 24-11-25 09:30-15:30
 
-DAG 5 - Instancer 24-11-27 09:30-15:30
+DAG 5 - Instancer 101 24-11-27 09:30-15:30
 
-DAG 6 - Heightfields 4-11-29 09:30-15:30
+DAG 6 - Heightfields 101 24-11-29 09:30-15:30
+
+DAG 7 - VEX 101 24-12-02 09:00-15:00
+
+DAG 8 - Volumer 101 24-12-04 09:00-15:00
+
+DAG 9 - Simulering 101 24-12-06 09:00-15:00
+
+DAG 10 - POP 101 24-12-09 09:30-15:30
+
+DAG 11 - VELLUM 101 24-12-11 09:30-15:30
+
+DAG 12 - RBD 101 24-12-13 09:30-15:30
+
+DAG 13 - PYRO 101 24-12-09 09:30-15:30
