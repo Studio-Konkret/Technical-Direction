@@ -9,4 +9,5 @@ https://docs.google.com/spreadsheets/d/1jzoKP4na-D-C6ArfECyC-zJiRX9u8bEPKN9MI2JP
 Under [Kursmoment] hittar ni alla individuella utbildningssmoduler.
 
 Under respektive dag hittar ni länk till den dagens kurs, dagens inspelning samt hip-filer för dagen.
+
 Här hittar ni dagarna för [Xenter](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Xenter) och [Nackademin](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Nackademin)
