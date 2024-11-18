@@ -7,15 +7,15 @@ Den här dagen är inte ett kursmoment så det finns inte en egen gitsida för d
 
 Under dagen introducerar vi några nya noder: 
 
-Peak {https://www.sidefx.com/docs/houdini/nodes/sop/peak.html}
+[Peak] (https://www.sidefx.com/docs/houdini/nodes/sop/peak.html)
 
-Match size https://www.sidefx.com/docs/houdini/nodes/sop/matchsize.html
+[Match size](https://www.sidefx.com/docs/houdini/nodes/sop/matchsize.html)
 
-Split https://www.sidefx.com/docs/houdini/nodes/sop/split.html
+[Split https](www.sidefx.com/docs/houdini/nodes/sop/split.html)
 
-Boolean https://www.sidefx.com/docs/houdini/nodes/sop/boolean.html
+[Boolean](https://www.sidefx.com/docs/houdini/nodes/sop/boolean.html)
 
-Divide https://www.sidefx.com/docs/houdini/nodes/sop/divide.html
+[Divide](https://www.sidefx.com/docs/houdini/nodes/sop/divide.html)
 
 
 **Dagens miniuppgift:**
