@@ -9,6 +9,8 @@ Alla kurser hittar ni här:https://github.com/Studio-Konkret/Technical-Direction
 
 Som ni ser kommer vi inte att genomföra alla kurser då vi helt enkelt inte hinner med det. 
 
+[Här](https://studiokonkret-my.sharepoint.com/:f:/g/personal/linusrosenqvist_studiokonkret_onmicrosoft_com/EvUZgOqNfUNAg0CrMqSc9I4BJXd7ORyKTuSqaSCUsh6gaA?e=vTr9ON) kan ni ladda upp era läxor: 
+
 Vi har också en Wikisida som det kommer länkas till under de olika uppgifterna: https://github.com/Studio-Konkret/Technical-Direction/wiki
 
 Här är schemat: https://docs.google.com/spreadsheets/d/1TaFk-RNorVnihuYdQ94TR_qVPrPVzvDbuuTszXlVMLI/edit?usp=sharing
