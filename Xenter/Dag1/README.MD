@@ -7,10 +7,15 @@ Den här dagen är inte ett kursmoment så det finns inte en egen gitsida för d
 
 Under dagen introducerar vi några nya noder: 
 
+
 Match size https://www.sidefx.com/docs/houdini/nodes/sop/matchsize.html
+
 Split https://www.sidefx.com/docs/houdini/nodes/sop/split.html
+
 Boolean https://www.sidefx.com/docs/houdini/nodes/sop/boolean.html
+
 Divide https://www.sidefx.com/docs/houdini/nodes/sop/divide.html
+
 
 **Dagens miniuppgift:**
 Bygga en trälåda. 
