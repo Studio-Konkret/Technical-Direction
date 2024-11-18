@@ -38,5 +38,5 @@ Sanddynor
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Heightfields)
+- [**SideFX HeightFields**](https://www.sidefx.com/docs/houdini/model/heightfields.html)
