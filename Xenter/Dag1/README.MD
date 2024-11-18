@@ -11,7 +11,7 @@ Under dagen introducerar vi några nya noder:
 
 [Match size](https://www.sidefx.com/docs/houdini/nodes/sop/matchsize.html)
 
-[Split https](www.sidefx.com/docs/houdini/nodes/sop/split.html)
+[Split](www.sidefx.com/docs/houdini/nodes/sop/split.html)
 
 [Boolean](https://www.sidefx.com/docs/houdini/nodes/sop/boolean.html)
 
