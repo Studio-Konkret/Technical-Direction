@@ -36,7 +36,7 @@ Sops - surface level operators https://github.com/Studio-Konkret/Technical-Direc
 
 Ordlista: https://github.com/Studio-Konkret/Technical-Direction/wiki/Ordlista
 
-DagensInspelning:
+DagensInspelning: *kommer snart*
 
-DagensHipfil:
+DagensHipfil: *kommer snart*
 
