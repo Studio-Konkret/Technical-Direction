@@ -1,5 +1,24 @@
-Hej
-Dag 1 - repetition. 
-Idag reperterar vi vad vi gjort tidigare och pratar om kursens upplägg och struktur.
-Vi pratar om hur houdini är uppbyggt samt era förväntningar på kursen.
-Vi gör lite repetionsuppgifter. 
+Hej!
+
+**Dag 2 - HDA 101**
+___
+### HDA
+Idag går vi igenom HDAs- Houdini digital assets.
+
+Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/104_HDA_01)
+
+
+### **Dagens miniuppgift:**
+
+___
+
+###**Dagens Hemuppgift**
+
+
+___
+### **Inspelning och hip-fil**
+*kommer efter lektionens slutet
+___
+
+
+
