@@ -12,7 +12,7 @@ Hemuppgift och miniuppgifter hittar ni under kurssidan
 
 ___
 ### **Inspelning och hip-fil**
-*kommer efter lektionens slutet
+*kommer efter lektionens slutet*
 ___
 
 
