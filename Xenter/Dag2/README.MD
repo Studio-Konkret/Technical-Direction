@@ -1,5 +1,5 @@
 
-### **Dag 2 - HDA 101**
+## **Dag 2 - HDA 101**
 ___
 ### HDA
 Idag går vi igenom HDAs- Houdini digital assets.
