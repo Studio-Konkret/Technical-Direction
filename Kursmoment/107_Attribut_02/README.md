@@ -27,8 +27,6 @@ Scattra punkter på ett grid och generera vektor-attribut som påverkar instanse
 
 &nbsp;
 
-&nbsp;
-
 ___
 
 <img src="https://github.com/user-attachments/assets/1749496c-73e8-4184-8913-869294a383c2" align="right" width="250">
