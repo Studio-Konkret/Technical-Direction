@@ -1,17 +1,64 @@
 
 Vi fortsätter med attribut och lär oss om [datatypen](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut#datatyper)  [vektorer](https://github.com/Studio-Konkret/Technical-Direction/wiki/Datatyper#vector---vektor)
 
-
-
-Här finns mer info om attribut som använder vektorer: 
-
 Vi kommer primärt att arbeta med vektorer för att styra orienteringen för instanser. 
 
-Dagens minuppgift:
-Vi testar lite kring hur vi kan påverka normaler och velocitet och hur det i sin tur påverkar instanser.
-
-Dagens hemuppgift:
+## Uppgifter
 
 
-Länk1 : Mer info om datatyper: https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut#datatyper
-Länk2: Mer info om attribut och dess typer: https://www.sidefx.com/docs/houdini/model/attributes.html#attributes
+### Miniuppgift
+
+<img src="https://github.com/user-attachments/assets/fe9404cb-05e5-45fb-99fd-5cdde3372cda4" align="right" width="250">
+
+#### A
+
+Scattra punkter på ett grid och generera vektor-attribut som påverkar instansers orientation vid Copy to Points. Analysera hur `v@N` eller `v@v`, kombinerat med `v@up` påverkar instansernas orientation.
+
+&nbsp;
+
+<img src="https://github.com/user-attachments/assets/46ade567-3c5e-478b-b425-dc3d1c583734" align="right" width="250">
+
+> Noder för att generera vektor-attribut:
+> * Attribute Randomize
+> * Attribute Adjust Vector
+> * Attribute Noise Vector
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+___
+
+<img src="https://github.com/user-attachments/assets/1749496c-73e8-4184-8913-869294a383c2" align="right" width="250">
+
+#### B (svår)
+
+Gör en meshad point-light skugga med [Ray SOP](https://www.sidefx.com/docs/houdini/nodes/sop/ray.html).
+
+Generera ett vektor-attribut som beskriver riktningen från varje punkt, till en given position i worldspace (representerar point lightens position). Använd denna rikting för att raya geometrin på en grid.
+
+> Hint: `ljusets position - P = riktningen till ljuset från geometrin`
+>
+> Använd Attribute Adjust Vector för att räkna ut formeln.
+
+___
+
+<img src="https://github.com/user-attachments/assets/8f465e4d-6313-4040-b30e-1db531551bd6" align="right" width="250">
+
+### Hemuppgift
+
+Hängande kablar.
+
+Använd Ray SOP för att skapa linjer från en vägg till en annan. Generera ett vektor attribut med varierande rikting för att göra linjerna mer intressanta vid rayen.
+
+> Tips:
+> Generera först en vektor riktad rakt mot den andra väggen. Sedan använd Attribute Randomize och addera till den existerande vektorn. "Global Scale" styr mängden randomisering.
+
+&nbsp;
+
+## Underlag:
+- [**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
+- [**Wiki - Datatyper**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Datatyper)
+- [**SideFX - Attributes**](https://www.sidefx.com/docs/houdini/model/attributes.html#attributes)
