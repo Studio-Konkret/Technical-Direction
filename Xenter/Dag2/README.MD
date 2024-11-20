@@ -12,7 +12,10 @@ Hemuppgift och miniuppgifter hittar ni under kurssidan
 
 ___
 ### **Inspelning och hip-fil**
-*kommer efter lektionens slutet*
+[Hip fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag2/Dag2.hipnc)
+
+[Inspelning](https://us02web.zoom.us/rec/share/zcVN76pKetN5nryhGq4evW4V86jnkqrwuAG2ZHi6iu_Ivco83BsR4-EUHOpsz89Z.gJmXTn8Vvi252ppr) 
+Lösenkod: $m5J=#uq
 ___
 
 
