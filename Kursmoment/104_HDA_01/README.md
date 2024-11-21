@@ -53,4 +53,4 @@ Bygg en fence generator HDA. HDAn förväntar sig en kurva och bygger pelare och
 &nbsp;
 
 ## Underlag:
-- [**Wiki**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
+- [**Wiki - HDA**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
