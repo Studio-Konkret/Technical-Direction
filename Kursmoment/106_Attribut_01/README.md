@@ -34,5 +34,4 @@ Kombinera attribut som i sin tur driver en deformering som genererat ett berg. Ã
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
