@@ -44,3 +44,4 @@ Bygg ett enkelt hus och miljö med träd runtom.
 ## Underlag:
 - [**Shortcuts**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Shortcuts)
 - [**Houdini Isn't Scary**](https://www.youtube.com/watch?v=Tsv8UGqDibc)
+- [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP)
