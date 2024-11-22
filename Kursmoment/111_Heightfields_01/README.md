@@ -3,7 +3,7 @@
 
 ### Miniuppgift
 
-Bygg din egna erode-nod som är live-linkad med SMHI
+Bygg din egna erode-nod som är live-linkad med SMHI /s
 
 ### Hemuppgift
 
