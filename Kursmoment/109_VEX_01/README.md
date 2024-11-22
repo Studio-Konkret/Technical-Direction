@@ -22,4 +22,4 @@ Deformera geometri över tid med sinus
 
 ## Underlag:
 - [**Vex isn't scary**](https://www.youtube.com/watch?v=OeaqMWzkyiw)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki - VEX**](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)

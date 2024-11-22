@@ -39,5 +39,5 @@ Bygg ett nätverk där du instansierar ut två olika geometrier baserat på ett 
 &nbsp;
 
 ## Underlag:
-- [**Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
+- [**Wiki - Instansiering**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Instansiering)
