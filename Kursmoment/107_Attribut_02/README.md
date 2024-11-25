@@ -8,21 +8,19 @@ Vi kommer primärt att arbeta med vektorer för att styra orienteringen för ins
 
 ### Miniuppgift
 
-<img src="https://github.com/user-attachments/assets/fe9404cb-05e5-45fb-99fd-5cdde3372cda4" align="right" width="250">
+<img src="https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/107_Attribut_02/Namnl%C3%B6s.jpg" align="right" width="250">
 
 #### A
 
-Scattra punkter på ett grid och generera vektor-attribut som påverkar instansers orientation vid Copy to Points. Analysera hur `v@N` eller `v@v`, kombinerat med `v@up` påverkar instansernas orientation.
+-Animera en sfär och skapa ett attribut på den. 
 
-&nbsp;
+- För över attributet med en attribute transfer till en grid.
 
-<img src="https://github.com/user-attachments/assets/46ade567-3c5e-478b-b425-dc3d1c583734" align="right" width="250">
+- Blura och justera attributet.
 
-> Noder för att generera vektor-attribut:
-> * Attribute Randomize
-> * Attribute Adjust Vector
-> * Attribute Noise Vector
+- Använd attributet för att extruda eller displace geometrin.
 
+  
 &nbsp;
 
 &nbsp;
@@ -50,6 +48,11 @@ ___
 Hängande kablar.
 
 Använd Ray SOP för att skapa linjer från en vägg till en annan. Generera ett vektor attribut med varierande rikting för att göra linjerna mer intressanta vid rayen.
+
+Kravet är bara att ni gör detta mellan två boxar men du får väldigt gärna försöka skapa detta i en riktig miljö som tex 
+- tvättlinor
+- slem från en öppen munn
+- telefonstolpsledningar
 
 > Tips:
 > Generera först en vektor riktad rakt mot den andra väggen. Sedan använd Attribute Randomize och addera till den existerande vektorn. "Global Scale" styr mängden randomisering.

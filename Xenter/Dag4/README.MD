@@ -11,7 +11,11 @@ Hemuppgift och miniuppgifter hittar ni under kurssidan
 
 ___
 ### **Inspelning och hip-fil**
-*kommer efter lektionens slutet*
+[hipfil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag4/dag4.hipnc)
+
+[inspelning](https://us02web.zoom.us/rec/share/81YLhI-0WLbD2owrOjI-nT2L24EgHCrR11fuLC_nRX2RXGXmZjeg8WrN7u0yO3HJ.G9fBPWLOcH9rFD3k)
+
+Lösenkod: N+hlA4f3
 ___
 
 
