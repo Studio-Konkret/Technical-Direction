@@ -8,7 +8,7 @@ Vi kommer primärt att arbeta med vektorer för att styra orienteringen för ins
 
 ### Miniuppgift
 
-<img src="https://github.com/user-attachments/assets/fe9404cb-05e5-45fb-99fd-5cdde3372cda4" align="right" width="250">
+<img src="https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/107_Attribut_02/Namnl%C3%B6s.jpg" align="right" width="250">
 
 #### A
 
