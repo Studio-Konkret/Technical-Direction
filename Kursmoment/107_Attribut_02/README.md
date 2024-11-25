@@ -49,6 +49,11 @@ Hängande kablar.
 
 Använd Ray SOP för att skapa linjer från en vägg till en annan. Generera ett vektor attribut med varierande rikting för att göra linjerna mer intressanta vid rayen.
 
+Kravet är bara att ni gör detta mellan två boxar men du får väldigt gärna försöka skapa detta i en riktig miljö som tex 
+- tvättlinor
+- slem från en öppen munn
+- telefonstolpsledningar
+
 > Tips:
 > Generera först en vektor riktad rakt mot den andra väggen. Sedan använd Attribute Randomize och addera till den existerande vektorn. "Global Scale" styr mängden randomisering.
 
