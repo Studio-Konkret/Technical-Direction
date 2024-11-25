@@ -12,17 +12,15 @@ Vi kommer primärt att arbeta med vektorer för att styra orienteringen för ins
 
 #### A
 
-Scattra punkter på ett grid och generera vektor-attribut som påverkar instansers orientation vid Copy to Points. Analysera hur `v@N` eller `v@v`, kombinerat med `v@up` påverkar instansernas orientation.
+-Animera en sfär och skapa ett attribut på den. 
 
-&nbsp;
+- För över attributet med en attribute transfer till en grid.
 
-<img src="https://github.com/user-attachments/assets/46ade567-3c5e-478b-b425-dc3d1c583734" align="right" width="250">
+- Blura och justera attributet.
 
-> Noder för att generera vektor-attribut:
-> * Attribute Randomize
-> * Attribute Adjust Vector
-> * Attribute Noise Vector
+- Använd attributet för att extruda eller displace geometrin.
 
+  
 &nbsp;
 
 &nbsp;
