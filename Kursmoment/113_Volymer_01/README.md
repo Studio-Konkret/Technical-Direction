@@ -15,6 +15,9 @@ Bekanta er med VDB Reshape SDF och Volume VOP för att ge intressant form på er
 
 Skapa en rauk-sten med SDF.
 
+> #### Workflow tips
+> * *Börja med att blocka ut formen med enkla geometrier (ex. boxar och sfärer), rasterisera till sdf för att sedan applicera noises och andra effekter.*
+
 &nbsp;
 
 &nbsp;
@@ -22,5 +25,5 @@ Skapa en rauk-sten med SDF.
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki - Volymer**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Volymer) *(se SDF)*
+- [**SideFX - Volumes**](https://www.sidefx.com/docs/houdini/model/volumes.html)
