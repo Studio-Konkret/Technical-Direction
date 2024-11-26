@@ -19,5 +19,6 @@ Vi bygger en enkel partikelsolver som simulerar partiklar med hjälp av en vekto
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki - Intro Simulering**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Intro-Simulering)
+- [**SideFX - Solver SOP**](https://www.sidefx.com/docs/houdini/nodes/sop/solver.html)
+- [**SideFX - Dynamics**](https://www.sidefx.com/docs/houdini/dyno/index.html)
