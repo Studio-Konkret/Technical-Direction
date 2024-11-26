@@ -14,4 +14,4 @@ Skapa en partikelsimulering där emission styrs av ett attribut
 &nbsp;
 
 ## Underlag:
-- [**TD Wiki**](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
+- [**Wiki - POP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
