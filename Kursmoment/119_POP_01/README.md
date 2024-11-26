@@ -14,7 +14,7 @@ Lek runt med olika microsolvers och se vilka kul grejer du kan få partiklarna a
 
 ### Hemuppgift
 
-Linus fixar
+Skapa en sfär som initiserar partiklar när den är nära marken
 
 
 
