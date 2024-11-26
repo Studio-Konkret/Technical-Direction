@@ -8,11 +8,11 @@ Vi kommer primärt att arbeta med vektorer för att styra orienteringen för ins
 
 ### Miniuppgift
 
-<img src="https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/107_Attribut_02/Namnl%C3%B6s.jpg" align="right" width="250">
+<img src="https://github.com/user-attachments/assets/767dbbe2-efa7-45d0-8fb8-ac44cbb0e49d" align="right" width="400">
 
 #### A
 
--Animera en sfär och skapa ett attribut på den. 
+Animera en sfär och skapa ett attribut på den. 
 
 - För över attributet med en attribute transfer till en grid.
 
