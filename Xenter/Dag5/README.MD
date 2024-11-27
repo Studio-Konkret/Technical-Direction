@@ -13,7 +13,11 @@ Hemuppgift och miniuppgifter hittar ni under kurssidan
 
 ___
 ### **Inspelning och hip-fil**
-*kommer efter lektionens slutet*
+[hipfil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag5/dag5.hipnc)
+
+[inspelning](https://us02web.zoom.us/rec/share/WVWBFDMruBnfBGOFdYriJ50sEFCiail5Cmc5yKmRN90xK7aiqWeiYwKJB9QFC9kZ.sApeex2cDq8NGiul)
+
+Lösenkod: 3%Vkg@93
 ___
 
 
