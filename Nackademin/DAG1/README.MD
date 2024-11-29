@@ -1,9 +1,9 @@
 Hej och välkommen.
 
-## Kursmoment
-Här hittar du dagens modul https://github.com/Studio-Konkret/Technical-Direction/blob/main/Intro_101/
+## [Kursmoment](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Intro_101/)
+Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
-## Dagens inspelning
-Här är en länk till dagens inspelning www.zooom.com/xxxx
+## [Dagens inspelning](dd)
+Här är en länk till dagens inspelning
 
-Dagens hipfil hittar du i den här mappen
+## Dagens hipfil hittar du i den här mappen
