@@ -18,5 +18,7 @@ Vi förstår att vissa kanske hunnit glömma bort en del av det vi gick igenom s
 > - Använd Triangulate SOP för att triangulera quads
 > - PolyExtrude:s "Inset" parameter kan du använda för att ge en bredd till dina edges, och inaktivera "Output Front" för att ta bort allt utom de edgar du gett en bredd. På så sätt kan du få till det yttre höljet.
 
+
+## Underlag
 - [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP)
 - [**Wiki - UI**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
