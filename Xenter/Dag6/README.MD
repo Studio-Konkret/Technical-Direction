@@ -1,12 +1,10 @@
 
-# **Dag 6 - VEX 101**
+# **Dag 6 - Heightfields 101**
 ___
 ### Attribut
-Vi pratar om vex 
+Vi pratar om Heightfields 
 
-Här är wikisidan där vi går igenom det https://github.com/Studio-Konkret/Technical-Direction/wiki/Instansiering
-
-Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
+Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/111_Heightfields_01)
 
 ___
 Hemuppgift och miniuppgifter hittar ni under kurssidan
