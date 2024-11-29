@@ -1,3 +1,4 @@
+Kursmomenten är fel just nu, om du är här och tjuvkikar innan så börjar vi egentligen med 115_Repetition första halva dagen, och sedan går över till 115 andra halvan
 Vecka|Veckodag|Startdatum|Starttid|Slutdatum |Sluttid|Klass, Grupp|Lärare         |Sal |Kursmoment
 -----|--------|----------|--------|----------|-------|------------|---------------|----|----------
 v 49 |Måndag  |2024-12-02|08:00   |2024-12-02|12:00  |T3D23       |Viktor Jämterud|B210|101       
