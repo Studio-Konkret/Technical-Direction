@@ -1,4 +1,4 @@
-Hej och välkommen.
+Hej och välkommen!
 
 ## [Kursmoment](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Intro_101/)
 Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
