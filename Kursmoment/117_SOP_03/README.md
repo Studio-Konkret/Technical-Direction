@@ -35,5 +35,5 @@ Offsetta ett noise med en referens till iterationsnumret för att variera result
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki - ForLoop**](https://github.com/Studio-Konkret/Technical-Direction/wiki/ForLoop)
+- [**CGWiki - ForLoop**](https://tokeru.com/cgwiki/ForLoops.html)
