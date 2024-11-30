@@ -19,7 +19,7 @@ Skapa en partikelsimulering där emission styrs av ett attribut
 - Använd attributet för att ta bort polygoner
 - Använd attributet för att generera partiklar
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpjdWRsdzg4NDhtM2NxYWdpMnV0dWZ6azh4cmk0cnlubDEyMnE5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVyYRH1uKw3QzAv0LQ/giphy.gif" align="right" width="300">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpjdWRsdzg4NDhtM2NxYWdpMnV0dWZ6azh4cmk0cnlubDEyMnE5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVyYRH1uKw3QzAv0LQ/giphy.gif" align="right" width="300">
 
 &nbsp;
 
