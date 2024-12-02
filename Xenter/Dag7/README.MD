@@ -4,7 +4,6 @@ ___
 ### Attribut
 Vi pratar om vex 
 
-Här är wikisidan där vi går igenom det https://github.com/Studio-Konkret/Technical-Direction/wiki/Instansiering
 
 Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
 
