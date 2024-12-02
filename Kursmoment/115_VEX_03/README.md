@@ -17,6 +17,7 @@ Kan du använda dig av @P.y för att offsetta animationen längst geometrins hö
 
 Använd kanaler/parametrar för att höja/sänka skalan på vågornas frekvens, hastighet och amplitud.
 
+ // För VEX grejerna vill jag att ni skickar en screenshot eller playblast för det rörliga, med en screenshot på er VEX-kod i discord kanalen #houdini_inlämningar
 
 &nbsp;
 
