@@ -13,7 +13,8 @@ Hemuppgift och miniuppgifter hittar ni under kurssidan
 ___
 ### **Inspelning och hip-fil**
 [Hip-fil FM](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag7/dag7.hipnc)
-*kommer efter lektionens slutet*
+
+*Inspelning kommer efter lektionens slutet*
 ___
 
 
