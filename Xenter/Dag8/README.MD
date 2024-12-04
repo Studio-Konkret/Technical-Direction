@@ -12,12 +12,12 @@ Hemuppgift och miniuppgifter hittar ni under kurssidan
 
 ___
 ### **Inspelning och hip-fil**
-[Inspelning] (https://us02web.zoom.us/rec/share/r8AXnRf1gq0F6R3fmGtIMHB455hot2XOjf0C1MLfnyF2QUmpFXb5nZZnLk-Es924.OK4B2FxhQ1tbgBoU)
+[Inspelning](https://us02web.zoom.us/rec/share/r8AXnRf1gq0F6R3fmGtIMHB455hot2XOjf0C1MLfnyF2QUmpFXb5nZZnLk-Es924.OK4B2FxhQ1tbgBoU)
 
  
 Lösenkod: r^xqD5gV
 
-[hip fil]
+[hip fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag8/dag8.hipnc)
 ___
 
 
