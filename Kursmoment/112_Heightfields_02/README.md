@@ -15,7 +15,12 @@ Se till att all geometri är så low-poly som möjligt så att du kan justera sn
 
 Generera masker och gör dessa till lager som du sedan använder för att instansa och populera ditt heightfield med naturobjekt.
 
+Om du har tid så använd bara Heightfieldsen för att generera grunden och gör sedan en mer ambitiös randomisering i "vanliga" sop med attribute from pieces och copy to point.
+Glöm inte att kryssa i packed primitives och piece attribute
+
 Om tid finns över kan vi försöka texturera era miljöer med hjälp av lagren och rendera.
+
+
 
 &nbsp;
 

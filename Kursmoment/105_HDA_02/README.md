@@ -1,21 +1,19 @@
 ## Uppgifter
 
-JOBBA VIDARE
-
-Hou - UE i/o
+Vi går igenom hur du tar din HDA och tar in till Unreal.
 
 ### Miniuppgift
 
-Beskrivning
+Installera Houdini Engine för Unreal Engine och förbered en HDA för dig att ta in.
 
 ### Hemuppgift
 
-Beskrivning
+Ta upp din HDA i Unreal och visa att alla parametrar funkar och ändrar resultatet av din HDA.
 
 
 
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki - HDA**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
+- [**Wiki - HDA (Unreal)**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Unreal-Engine))

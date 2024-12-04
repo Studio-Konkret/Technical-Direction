@@ -17,7 +17,6 @@ Kan du använda dig av @P.y för att offsetta animationen längst geometrins hö
 
 Använd kanaler/parametrar för att höja/sänka skalan på vågornas frekvens, hastighet och amplitud.
 
-
 &nbsp;
 
 &nbsp;
@@ -27,5 +26,6 @@ Använd kanaler/parametrar för att höja/sänka skalan på vågornas frekvens, 
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Wiki - VEX**](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
+- [**CGWiki - Sine**](https://tokeru.com/cgwiki/JoyOfVex01.html#sine)
+- [**CGWiki - Rotate with sin and cos**](https://tokeru.com/cgwiki/HoudiniVex1.html#rotate_geometry_with_sin_and_cos)
