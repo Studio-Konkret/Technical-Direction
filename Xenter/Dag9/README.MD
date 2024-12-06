@@ -15,7 +15,7 @@ ___
 
 Lösenkod: B9.c$#fN
 
-[hip fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag9/dag9.hipnc)
+[Hip-fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag9/dag9.hipnc)
 ___
 
 
