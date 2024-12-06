@@ -1,15 +1,14 @@
 
-# **Dag 9 - Volymer 1**
+# **Dag 10 - Vops 1**
 ___
 
-Vi pratar om Volymer
+Vi pratar om VOPS
 
 
-Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/113_Volymer_01)
+Idag finns det ingen kurssida utan det bygger på [VEX](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/109_VEX_01) lektionen vi hade igår  
 
 ___
-Hemuppgift och miniuppgifter hittar ni under kurssidan
-
+Det finns ingen hemuppgift idag
 ___
 ### **Inspelning och hip-fil**
 *kommer efter lektionens slutet*
