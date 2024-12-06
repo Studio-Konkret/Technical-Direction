@@ -1,11 +1,11 @@
 
-# **Dag 10 - Volymer 102**
+# **Dag 9 - Volymer 1**
 ___
 
-Vi fortsätter pratar om Volymer
+Vi pratar om Volymer
 
 
-Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/114_Volymer_02)
+Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/113_Volymer_01)
 
 ___
 Hemuppgift och miniuppgifter hittar ni under kurssidan
