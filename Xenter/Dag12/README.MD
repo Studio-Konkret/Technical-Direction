@@ -1,11 +1,11 @@
 
-# **Dag X - XXX**
+# **Dag 12 - Simulering**
 ___
 
-Vi pratar om XXX
+Vi pratar om Simulering
 
 
-Här är dagens [kurs]()
+Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/118_Intro_Simulering)
 
 ___
 Hemuppgift och miniuppgifter hittar ni under kurssidan
