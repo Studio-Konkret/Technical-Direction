@@ -30,6 +30,10 @@ Offsetta ett noise med en referens till iterationsnumret för att variera result
 
 `detail("path_till_metadata_nod","iteration",0)`
 
+#### Valfritt
+
+Kolla DAG_03 och ladda ner exemplefilen "Honorable_mentions" och se om du hittar en nod som inspirerar dig till att göra nåt kul att visa.
+
 &nbsp;
 
 &nbsp;
