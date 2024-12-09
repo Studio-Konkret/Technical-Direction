@@ -11,7 +11,9 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 ## [Dagens inspelning]()
 
-Lösen: =^j1H$?#
+*kommer snart*
+
+Lösen: 
 
 ## Dagens hipfil hittar du i den här mappen
 
