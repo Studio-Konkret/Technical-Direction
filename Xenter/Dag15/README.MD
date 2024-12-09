@@ -1,8 +1,8 @@
 
-# **Dag X - XXX**
+# **Dag 15 - Avslutning**
 ___
 
-Vi pratar om XXX
+Vi för utvärdering och pratar lite om andra typer av solvers. 
 
 
 Här är dagens [kurs]()
