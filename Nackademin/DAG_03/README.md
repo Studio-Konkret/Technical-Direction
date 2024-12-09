@@ -9,7 +9,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 - Lämna in på discord. Glöm inte att skriva ditt namn när du skickar. Rörliga inlämningar vill jag ha som flipbook, annars går screen shot bra, gärna tillsammans med nodnätverket/vex-kod.
 
-## [Dagens inspelning](https://zoom.us/rec/share/sOpUrX3Oa3bGPu9mxakMwBP05sfZD_dmUyc1K_fUC629UFkXQEhE69Z8jgGVWJQ.PiW12-AYMFZ1wkc2)
+## [Dagens inspelning]()
 
 Lösen: =^j1H$?#
 
