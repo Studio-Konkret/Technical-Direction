@@ -26,5 +26,5 @@ Använd cloud tools för att skapa ett fint moln.
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
+
 - [**SideFX - Cloud Modeling**](https://www.sidefx.com/docs/houdini/model/cloud.html)
