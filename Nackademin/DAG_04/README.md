@@ -14,4 +14,4 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 ## Dagens hipfil hittar du i den här mappen
 
 ## Resources:
-[Wiki - ForLoops](https://github.com/Studio-Konkret/Technical-Direction/wiki/ForLoop)
+[Wiki - ForLoops](https://github.com/Studio-Konkret/Technical-Direction/wiki/Intro-Simulering)
