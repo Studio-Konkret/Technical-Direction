@@ -17,7 +17,7 @@ ___
 
 Lösenkod: %30Xf7W.
 
-[hopfil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag12/dag12.hipnc)
+[hipfil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag12/dag12.hipnc)
 
 
 ___
