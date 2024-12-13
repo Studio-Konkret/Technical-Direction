@@ -12,7 +12,13 @@ Hemuppgift och miniuppgifter hittar ni under kurssidan
 
 ___
 ### **Inspelning och hip-fil**
-*kommer efter lektionens slutet*
+[Inspelning](https://us02web.zoom.us/rec/share/USD-g6Vpaj9eKIWT3v7GQwQjLwC5TV8q9Q5Qf2RR3oQMOSUTC275DiBZP2qDw5Km.Zndfz116Qr_9jWst 
+)
+
+Lösenkod: %30Xf7W.
+
+
+
 ___
 
 
