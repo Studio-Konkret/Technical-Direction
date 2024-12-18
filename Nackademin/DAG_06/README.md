@@ -15,7 +15,11 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 ## <a href="Dag6.hiplc" download>Ladda ner projektfilen</a>
 
-<a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/Nackademin/DAG_06/Dag6.hiplc">Download FILE</a>
+<a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/blob/84bf57cfc1e0826d663b6f1edee082a248d56431/Nackademin/DAG_06/Dag6.hiplc">Download FILE</a>
+
+Nackademin/DAG_06/Dag6.hiplc
+
+https://github.com/Studio-Konkret/Technical-Direction/blob/84bf57cfc1e0826d663b6f1edee082a248d56431/Nackademin/DAG_06/Dag6.hiplc
 
 ## Resources:
 [Wiki - POP](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
