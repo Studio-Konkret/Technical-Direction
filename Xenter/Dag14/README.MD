@@ -12,7 +12,11 @@ Hemuppgift och miniuppgifter hittar ni under kurssidan
 
 ___
 ### **Inspelning och hip-fil**
-*kommer efter lektionens slutet*
+[Inspelning](https://us02web.zoom.us/rec/share/25tSNH2wOPAXgd_8oNv3t16-07LB0Abjq6d6HP1Y-1PpiYCftjnoe5pbGzPS2P8.fsHsWFi_VT7KWQda)
+
+Lösen:Lösenkod: rM.qY9k9
+
+[Hipfil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag14/dag14.hipnc)
 ___
 
 
