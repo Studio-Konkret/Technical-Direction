@@ -13,8 +13,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 *Coming soon*
 
-
-## Dagens hipfil hittar du i den här mappen (DAG_06) längst upp på sidan
+## <a href="Dag6.hiplc" download>Ladda ner projektfilen</a>
 
 ## Resources:
 [Wiki - POP](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
