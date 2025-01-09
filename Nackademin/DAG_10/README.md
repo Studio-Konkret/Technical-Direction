@@ -4,7 +4,7 @@ Hej och välkommen!
 Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
 * [105_HDA_02]()
-* [125_Pyro_01]
+* 125_Pyro_01
 
 ## Inlämningar
 
