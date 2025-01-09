@@ -14,9 +14,14 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 Lösenkod: coming soon
 
-## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/DAG_09/Dag9.hiplc">Ladda ner projektfilen</a>
+## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/DAG_10/Dag10_hda_ue.hiplc">Projektfil (Part_1)</a>
+
+## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/DAG_10/Dag10_pyro.hiplc">Projektfil (Part_2)</a>
+
+## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/DAG_10/Standing Torch Burn Webs.fbx">Mocap Animation</a>
 
 
 ## Resources:
 [Wiki - HDA (Unreal)](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Unreal-Engine))
+
 [Wiki - Pyro](https://github.com/Studio-Konkret/Technical-Direction/wiki/Pyro)
