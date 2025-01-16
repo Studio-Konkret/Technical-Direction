@@ -1,6 +1,6 @@
-# POP 01
+# Vellum 01
 
-Idag går vi igenom VEllum (Tyg, hår, soft bodies) 
+Idag går vi igenom Vellum, solvern för att simulera cloth, soft bodies, hår, grains och fluids.
 
 ## Uppgifter
 
