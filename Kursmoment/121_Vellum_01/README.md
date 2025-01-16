@@ -7,14 +7,13 @@ Idag går vi igenom Vellum, solvern för att simulera cloth, soft bodies, hår, 
 
 ### Miniuppgift
 
-Kommer snart
-
-
+Gör en flagga som sveper i vinden, två av hörnen bör vara pinnade.
 
 
 ### Hemuppgift
 
-Komner snart
+Bygg ett sandslott, och låt Crag eller något valfritt ta sönder den. Bygg sandslottet helst procedurellt.
+
 &nbsp;
 
 &nbsp;
