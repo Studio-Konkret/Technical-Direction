@@ -3,7 +3,7 @@ Hej och välkommen!
 ## Kursmoment
 Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
-* [119_POP_02](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/120_POP_02/README.md)
+* [120_POP_02](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/120_POP_02/README.md)
 
 ## Inlämningar
 
