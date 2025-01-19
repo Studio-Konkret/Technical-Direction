@@ -1,4 +1,4 @@
-# Vellum 01
+# RBD 01
 
 Idag går vi igenom RBD, solvern för att simulera Rigid Bodies, dvs. rigida objekt som sten till exempel.
 ## Uppgifter
