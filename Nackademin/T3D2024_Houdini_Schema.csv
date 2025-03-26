@@ -1,42 +1,37 @@
-,,,,,,,,,,
-TimeEdit,,,,,,,,,,
-T3D2024_01_Schema,,,,,,,,,,
-T3D24,,,,,,,,,,
-2025-03-26 - 2025-06-18 ,,,,,,,,,,
-Vecka,Veckodag,Startdatum,Starttid,Slutdatum,Sluttid,"Klass, Grupp",Lärare,Sal,Kurs,"Moment, Aktivitet"
-v 14,Tisdag,2025-04-01,08:00,2025-04-01,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 14,Tisdag,2025-04-01,13:00,2025-04-01,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 14,Torsdag,2025-04-03,08:00,2025-04-03,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 14,Torsdag,2025-04-03,13:00,2025-04-03,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 15,Tisdag,2025-04-08,08:00,2025-04-08,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 15,Tisdag,2025-04-08,13:00,2025-04-08,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 15,Torsdag,2025-04-10,08:00,2025-04-10,12:00,T3D24,Viktor Jämterud,B207,Houdini och producerella miljöer,
-v 15,Torsdag,2025-04-10,13:00,2025-04-10,17:00,T3D24,Viktor Jämterud,B207,Houdini och producerella miljöer,
-v 16,Tisdag,2025-04-15,08:00,2025-04-15,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 16,Tisdag,2025-04-15,13:00,2025-04-15,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 16,Torsdag,2025-04-17,08:00,2025-04-17,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 16,Torsdag,2025-04-17,13:00,2025-04-17,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 17,Tisdag,2025-04-22,08:00,2025-04-22,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 17,Tisdag,2025-04-22,13:00,2025-04-22,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 17,Torsdag,2025-04-24,08:00,2025-04-24,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 17,Torsdag,2025-04-24,13:00,2025-04-24,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 18,Tisdag,2025-04-29,08:00,2025-04-29,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 18,Tisdag,2025-04-29,13:00,2025-04-29,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 18,Fredag,2025-05-02,08:00,2025-05-02,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 18,Fredag,2025-05-02,13:00,2025-05-02,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 19,Tisdag,2025-05-06,08:00,2025-05-06,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 19,Tisdag,2025-05-06,13:00,2025-05-06,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 19,Torsdag,2025-05-08,08:00,2025-05-08,12:00,T3D24,Viktor Jämterud,B207,Houdini och producerella miljöer,
-v 19,Torsdag,2025-05-08,13:00,2025-05-08,17:00,T3D24,Viktor Jämterud,B207,Houdini och producerella miljöer,
-v 20,Tisdag,2025-05-13,08:00,2025-05-13,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 20,Tisdag,2025-05-13,13:00,2025-05-13,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 20,Torsdag,2025-05-15,08:00,2025-05-15,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 20,Torsdag,2025-05-15,13:00,2025-05-15,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 21,Tisdag,2025-05-20,08:00,2025-05-20,12:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 21,Tisdag,2025-05-20,13:00,2025-05-20,17:00,T3D24,Viktor Jämterud,B210,Houdini och producerella miljöer,
-v 21,Torsdag,2025-05-22,08:00,2025-05-22,12:00,T3D24,Viktor Jämterud,B209,Houdini och producerella miljöer,
-v 21,Torsdag,2025-05-22,13:00,2025-05-22,17:00,T3D24,Viktor Jämterud,B209,Houdini och producerella miljöer,
-v 22,Måndag,2025-05-26,08:00,2025-05-26,12:00,T3D24,Viktor Jämterud,C301,Houdini och producerella miljöer,
-v 22,Måndag,2025-05-26,13:00,2025-05-26,17:00,T3D24,Viktor Jämterud,C301,Houdini och producerella miljöer,
-v 22,Onsdag,2025-05-28,08:00,2025-05-28,12:00,T3D24,Viktor Jämterud,C301,Houdini och producerella miljöer,
-v 22,Onsdag,2025-05-28,13:00,2025-05-28,17:00,T3D24,Viktor Jämterud,C301,Houdini och producerella miljöer,
+Vecka,Veckodag,Startdatum,Starttid,Slutdatum,Sluttid,"Klass, Grupp",LÃ¤rare,Sal,Kurs,"Moment, Aktivitet"
+v 14,Tisdag,2025-04-01,08:00,2025-04-01,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,101_Intro
+v 14,Tisdag,2025-04-01,13:00,2025-04-01,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 14,Torsdag,2025-04-03,08:00,2025-04-03,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,102_SOP_01
+v 14,Torsdag,2025-04-03,13:00,2025-04-03,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 15,Tisdag,2025-04-08,08:00,2025-04-08,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,103_SOP_02
+v 15,Tisdag,2025-04-08,13:00,2025-04-08,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 15,Torsdag,2025-04-10,08:00,2025-04-10,12:00,T3D24,Viktor JÃ¤mterud,B207,Houdini och producerella miljÃ¶er,104_HDA_01
+v 15,Torsdag,2025-04-10,13:00,2025-04-10,17:00,T3D24,Viktor JÃ¤mterud,B207,Houdini och producerella miljÃ¶er,
+v 16,Tisdag,2025-04-15,08:00,2025-04-15,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,105_HDA_02
+v 16,Tisdag,2025-04-15,13:00,2025-04-15,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 16,Torsdag,2025-04-17,08:00,2025-04-17,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,106_Attribut_01
+v 16,Torsdag,2025-04-17,13:00,2025-04-17,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 17,Tisdag,2025-04-22,08:00,2025-04-22,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,107_Attribut_02
+v 17,Tisdag,2025-04-22,13:00,2025-04-22,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 17,Torsdag,2025-04-24,08:00,2025-04-24,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,108_Instansiering
+v 17,Torsdag,2025-04-24,13:00,2025-04-24,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 18,Tisdag,2025-04-29,08:00,2025-04-29,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,109_VEX_01
+v 18,Tisdag,2025-04-29,13:00,2025-04-29,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 18,Fredag,2025-05-02,08:00,2025-05-02,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,110_VEX_02
+v 18,Fredag,2025-05-02,13:00,2025-05-02,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 19,Tisdag,2025-05-06,08:00,2025-05-06,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,111_Heightfields_01
+v 19,Tisdag,2025-05-06,13:00,2025-05-06,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 19,Torsdag,2025-05-08,08:00,2025-05-08,12:00,T3D24,Viktor JÃ¤mterud,B207,Houdini och producerella miljÃ¶er,112_Heightfields_02
+v 19,Torsdag,2025-05-08,13:00,2025-05-08,17:00,T3D24,Viktor JÃ¤mterud,B207,Houdini och producerella miljÃ¶er,
+v 20,Tisdag,2025-05-13,08:00,2025-05-13,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,113_Volymer_01
+v 20,Tisdag,2025-05-13,13:00,2025-05-13,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 20,Torsdag,2025-05-15,08:00,2025-05-15,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,114_Volymer_02
+v 20,Torsdag,2025-05-15,13:00,2025-05-15,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 21,Tisdag,2025-05-20,08:00,2025-05-20,12:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,Slutprojekt
+v 21,Tisdag,2025-05-20,13:00,2025-05-20,17:00,T3D24,Viktor JÃ¤mterud,B210,Houdini och producerella miljÃ¶er,
+v 21,Torsdag,2025-05-22,08:00,2025-05-22,12:00,T3D24,Viktor JÃ¤mterud,B209,Houdini och producerella miljÃ¶er,Slutprojekt
+v 21,Torsdag,2025-05-22,13:00,2025-05-22,17:00,T3D24,Viktor JÃ¤mterud,B209,Houdini och producerella miljÃ¶er,
+v 22,MÃ¥ndag,2025-05-26,08:00,2025-05-26,12:00,T3D24,Viktor JÃ¤mterud,C301,Houdini och producerella miljÃ¶er,Slutprojekt
+v 22,MÃ¥ndag,2025-05-26,13:00,2025-05-26,17:00,T3D24,Viktor JÃ¤mterud,C301,Houdini och producerella miljÃ¶er,
+v 22,Onsdag,2025-05-28,08:00,2025-05-28,12:00,T3D24,Viktor JÃ¤mterud,C301,Houdini och producerella miljÃ¶er,Avslutning
+v 22,Onsdag,2025-05-28,13:00,2025-05-28,17:00,T3D24,Viktor JÃ¤mterud,C301,Houdini och producerella miljÃ¶er,
