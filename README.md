@@ -2,7 +2,7 @@ Kolla vår [Wikipedia](https://github.com/Studio-Konkret/Technical-Direction/wik
 
 [Schema Xenter](https://docs.google.com/spreadsheets/d/1TaFk-RNorVnihuYdQ94TR_qVPrPVzvDbuuTszXlVMLI/edit?usp=sharing)
 
-[Schema Nackademin](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Nackademin/Schema%20-%20T3D24_01.csv)
+[Schema Nackademin](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/Schema%20-%20Technical%20Direction.csv)
 
 Under [Kursmoment](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment) hittar ni alla individuella utbildningssmoduler.
 
