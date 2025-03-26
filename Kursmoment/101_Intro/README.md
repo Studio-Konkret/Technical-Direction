@@ -5,6 +5,12 @@ Välkommen till första lektionen
 
 Idag kommer vi att bekanta oss med Houdini:s UI 
 
+### Inför lektionen
+
+Vi ber er att titta igenom första avsnittet av Houdini Isn't Scary för att förbereda er på Houdini:s gränssnitt
+
+Länk: https://youtu.be/Tsv8UGqDibc?si=DVjloo73FdbOaRYP
+
 ### Uppgift
 
 Klicka er runt i programmet och testa att sätta ut geometri.
