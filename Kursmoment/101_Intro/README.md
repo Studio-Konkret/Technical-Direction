@@ -13,4 +13,5 @@ Klicka er runt i programmet och testa att sätta ut geometri.
 &nbsp;
 
 ## Underlag:
-- [**UI**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
+- [**Wiki - UI**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
+- [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP)
