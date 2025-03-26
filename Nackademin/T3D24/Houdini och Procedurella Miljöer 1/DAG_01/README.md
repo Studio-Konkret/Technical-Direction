@@ -17,5 +17,5 @@ Lösenkod:
 
 
 ## Resources:
-[Wiki - RBD](https://github.com/Studio-Konkret/Technical-Direction/wiki/RBD)
+[Wiki - UI](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
 
