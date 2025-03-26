@@ -5,7 +5,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 * [101_Intro](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/101_Intro/README.md)
 
-## [Dagens inspelning](https://zoom.us/rec/share/8JZivogS8f9wonbBCAZdj8Uw2Lp_q-yWkc6vuhg5Ov2b6FIprpvrJeWWwnVNlSnz.FUqVve5Toxg9vtq1)
+## [Dagens inspelning]()
 
 Lösenkod: 
 
