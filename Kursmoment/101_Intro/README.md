@@ -5,14 +5,9 @@ Välkommen till första lektionen
 
 Idag kommer vi att bekanta oss med Houdini:s UI 
 
-### Miniuppgift
+### Uppgift
 
-Beskrivning
-
-### Hemuppgift
-
-Beskrivning
-
+Klicka er runt i programmet och testa att sätta ut geometri.
 
 
 &nbsp;
