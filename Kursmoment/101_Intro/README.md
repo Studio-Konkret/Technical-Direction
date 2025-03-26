@@ -1,14 +1,24 @@
-Välkommen till vår fösta Lektion.
-Undelag för dagens lektion hittar ni här: 
+## Houdini och Procedurella Miljöer
 
-UI https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder
+<img src="https://github.com/user-attachments/assets/cb1041dd-e9ce-48ff-b1ab-28f442c40fdd" align="right" width="250">
 
-SOPS https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP
-Dagens Minuppgift: 
+Välkommen till första lektionen
 
-1 Klicka dig runt och skapa några noden
+Idag kommer vi att bekanta oss med Houdini:s UI 
 
-Dagens hemuppgift:
+### Inför lektionen
 
-Skapa ett procedurellt system som hämtar salelitdata i realtid och bygg en UI kring det hela
+Vi ber er att titta igenom första avsnittet av Houdini Isn't Scary för att förbereda er på Houdini:s gränssnitt
 
+[Houdini Isn't Scary](https://youtu.be/Tsv8UGqDibc?si=DVjloo73FdbOaRYP)
+
+### Uppgift
+
+Klicka er runt i programmet och testa att sätta ut geometri.
+
+
+&nbsp;
+
+## Underlag:
+- [**Wiki - UI**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
+- [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP)
