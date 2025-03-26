@@ -12,3 +12,6 @@ Dagens hemuppgift:
 
 Skapa ett procedurellt system som hämtar salelitdata i realtid och bygg en UI kring det hela
 
+Välkommen till första lektionen
+
+Idag kommer vi att bekanta oss med Houdini:s UI 
