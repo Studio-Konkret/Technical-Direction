@@ -17,5 +17,5 @@ Lösenkod:
 
 
 ## Resources:
-[Wiki - UI](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
+[**Wiki - UI**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
 
