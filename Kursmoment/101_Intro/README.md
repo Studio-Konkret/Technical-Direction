@@ -9,7 +9,7 @@ Idag kommer vi att bekanta oss med Houdini:s UI
 
 Vi ber er att titta igenom första avsnittet av Houdini Isn't Scary för att förbereda er på Houdini:s gränssnitt
 
-Länk: https://youtu.be/Tsv8UGqDibc?si=DVjloo73FdbOaRYP
+[Houdini Isn't Scary](https://youtu.be/Tsv8UGqDibc?si=DVjloo73FdbOaRYP)
 
 ### Uppgift
 
