@@ -18,7 +18,7 @@ Ex:
 
 ### Hemuppgift
 
-Titta igenom och följ [Vex isn't scary](https://www.youtube.com/watch?v=OeaqMWzkyiw)
+Titta igenom och följ [Vex isn't scary](https://www.youtube.com/watch?v=OeaqMWzkyiw) för att öva in syntaxen i VEX.
 
 &nbsp;
 
