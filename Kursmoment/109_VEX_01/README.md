@@ -18,9 +18,7 @@ Ex:
 
 ### Hemuppgift
 
-Deformera geometri över tid med sinus
-
-
+Titta igenom och följ [Vex isn't scary](https://www.youtube.com/watch?v=OeaqMWzkyiw)
 
 &nbsp;
 
