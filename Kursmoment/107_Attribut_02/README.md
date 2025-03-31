@@ -25,21 +25,6 @@ Animera en sfär och skapa ett attribut på den.
 &nbsp;
 
 &nbsp;
-
-___
-
-<img src="https://github.com/user-attachments/assets/1749496c-73e8-4184-8913-869294a383c2" align="right" width="250">
-
-#### B (svår)
-
-Gör en meshad point-light skugga med [Ray SOP](https://www.sidefx.com/docs/houdini/nodes/sop/ray.html).
-
-Generera ett vektor-attribut som beskriver riktningen från varje punkt, till en given position i worldspace (representerar point lightens position). Använd denna rikting för att raya geometrin på en grid.
-
-> Hint: `ljusets position - P = riktningen till ljuset från geometrin`
->
-> Använd Attribute Adjust Vector för att räkna ut formeln.
-
 ___
 
 <img src="https://github.com/user-attachments/assets/8f465e4d-6313-4040-b30e-1db531551bd6" align="right" width="250">
