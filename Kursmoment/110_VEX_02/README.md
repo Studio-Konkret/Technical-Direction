@@ -37,5 +37,5 @@ Modellera en manet och animera med VEX.
 &nbsp;
 
 ## Underlag:
-- [**Link**](https://play.cplegacy.com/)
-- [**Link2**](https://play.cplegacy.com/)
+- [**Vex isn't scary**](https://www.youtube.com/watch?v=OeaqMWzkyiw)
+- [**Wiki - VEX**](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
