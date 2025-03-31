@@ -37,5 +37,5 @@ Sanddynor
 &nbsp;
 
 ## Underlag:
-- [**Wiki**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Heightfields)
-- [**SideFX HeightFields**](https://www.sidefx.com/docs/houdini/model/heightfields.html)
+- [**Wiki - HeightFields**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Heightfields)
+- [**SideFX - HeightFields**](https://www.sidefx.com/docs/houdini/model/heightfields.html)
