@@ -9,7 +9,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 Lösenkod: 
 
-## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/DAG_09/Dag9.hiplc">Ladda ner projektfilen</a>
+## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/T3D24/Houdini-och-Procedurella-Miljöer-1/DAG_01/DAG_01.hiplc">Ladda ner projektfilen</a>
 
 
 ## Resources:
