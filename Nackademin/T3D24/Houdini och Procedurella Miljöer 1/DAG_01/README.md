@@ -16,4 +16,4 @@ Lösenkod: mSv%4.Ih
 ## Resources:
 [**Wiki - UI**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
 
-[Ladda ner filen](https://github.com/USERNAME/REPOSITORY/raw/BRANCH/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_01/DAG_01.hiplc)
+<a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/b03cc102ffe87a91d4c75c1f122369c79bc958ff/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_01/DAG_01.hiplc" target="_blank">Ladda ner projektfilen</a>
