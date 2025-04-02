@@ -5,9 +5,9 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 * [101_Intro](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/101_Intro/README.md)
 
-## [Dagens inspelning]()
+## [Dagens inspelning](https://zoom.us/rec/share/mj5K98007Xh2WCv-YJMSgLgZ35PPR1r19xqufTi9thDqbXLH5xKZf-9k6m5WMdvT.YecmyTUfTB5FJ9o7)
 
-Lösenkod: 
+Lösenkod: mSv%4.Ih
 
 ## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/T3D24/Houdini-och-Procedurella-Miljöer-1/DAG_01/DAG_01.hiplc">Ladda ner projektfilen</a>
 
