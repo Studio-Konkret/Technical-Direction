@@ -4,6 +4,7 @@ Hej och välkommen!
 Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
 * [101_Intro](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/101_Intro/README.md)
+* [102_SOP_01](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/102_SOP_01/README.md)
 
 ## [Dagens inspelning](https://zoom.us/rec/share/mj5K98007Xh2WCv-YJMSgLgZ35PPR1r19xqufTi9thDqbXLH5xKZf-9k6m5WMdvT.YecmyTUfTB5FJ9o7)
 
