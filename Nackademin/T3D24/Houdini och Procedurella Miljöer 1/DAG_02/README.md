@@ -11,10 +11,11 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 ## [Dagens inspelning](https://zoom.us/rec/share/8JZivogS8f9wonbBCAZdj8Uw2Lp_q-yWkc6vuhg5Ov2b6FIprpvrJeWWwnVNlSnz.FUqVve5Toxg9vtq1)
 
-Lösenkod: 
+Lösenkod: *Coming soon*
 
 ## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/DAG_09/Dag9.hiplc">Ladda ner projektfilen</a>
 
+*Coming soon*
 
 ## Resources:
 - [**Houdini HScript and Channel Referencing**](https://youtube.com/playlist?list=PLSET4TyKEfn9TLeA9wunf_-yEbhg-Rctf&si=P9WlndEVBUtCFyKj)
