@@ -33,12 +33,6 @@ ___
 
 ### Hemuppgift
 
-* **A**
-
-Bygg om huset från förra lektionen procedurellt.
-
-* **B**
-
 Bygg ett vattentorn procedurellt, med en kontroll-null som styr den.
 
 
