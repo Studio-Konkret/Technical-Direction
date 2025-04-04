@@ -33,7 +33,7 @@ ___
 
 ### Hemuppgift
 
-Bygg ett vattentorn procedurellt, med en kontroll-null som styr den.
+Bygg ett vattentorn procedurellt, med en kontroll-null som styr den. Skicka en screen-recording på när du drar i parametrarna i din kontroll-null för att visa att den styr vattentornet.
 
 
 &nbsp;
