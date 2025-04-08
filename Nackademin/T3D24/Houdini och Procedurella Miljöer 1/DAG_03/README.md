@@ -13,7 +13,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 Lösenkod: *Coming soon*
 
-## <a id="raw-url" target="_blank" href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/master/Nackademin/DAG_09/Dag9.hiplc">Ladda ner projektfilen</a>
+## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_03/DAG_03.hiplc" target="_blank">Ladda ner projektfilen</a>
 
 *Coming soon*
 
