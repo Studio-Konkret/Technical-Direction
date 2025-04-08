@@ -20,3 +20,4 @@ Lösenkod: *Coming soon*
 ## Resources:
 - [**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
 - [**Wiki - Datatyper**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Datatyper)
+- [**Wiki - Elementtyper/Klasser**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Elementtyper%5CKlasser)
