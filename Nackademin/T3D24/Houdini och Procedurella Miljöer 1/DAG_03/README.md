@@ -18,4 +18,6 @@ Lösenkod: *Coming soon*
 *Coming soon*
 
 ## Resources:
-[**Wiki - UI**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
+[**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
+
+[**Wiki - Datatyper**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Datatyper)
