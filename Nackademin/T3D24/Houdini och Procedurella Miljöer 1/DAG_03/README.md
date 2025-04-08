@@ -21,3 +21,4 @@ Lösenkod: *Coming soon*
 - [**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
 - [**Wiki - Datatyper**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Datatyper)
 - [**Wiki - Elementtyper/Klasser**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Elementtyper%5CKlasser)
+- [**Curveu Explained**](https://www.sidefx.com/tutorials/curveu/)
