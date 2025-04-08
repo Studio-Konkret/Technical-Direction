@@ -17,6 +17,11 @@ Lösenkod: *Coming soon*
 
 *Coming soon*
 
+## Komplettering till den förlorade morgonsinspelningen
+
+- [**What are attributes? - Speedy Houdini**](https://www.youtube.com/watch?v=ic7bbGMNP_U)
+- [**Houdini Attributes in 5 minutes**](https://www.youtube.com/watch?v=xH216NRA2No)
+
 ## Resources:
 - [**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
 - [**Wiki - Datatyper**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Datatyper)
