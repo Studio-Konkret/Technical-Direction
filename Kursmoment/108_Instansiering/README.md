@@ -28,7 +28,7 @@ ___
 
 <img src="https://github.com/user-attachments/assets/d7e19f83-8331-4197-8826-0d4fd60c9286" align="right" width="250">
 
-Bygg ett nätverk där du instansierar ut två olika geometrier baserat på ett attribut.
+Återanvänd nätverket där du skapade terrängen med berget och skapa minst två varianter av stenar som du scattrar ut tillsammans med träden (*hint: attribute from pieces*). Pluspoäng om du får in gräset också.
 
 &nbsp;
 
