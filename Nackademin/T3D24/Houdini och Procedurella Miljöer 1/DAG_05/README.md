@@ -9,9 +9,9 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 - Lämna in hemuppgiften på dropbox (länkad ovan). Namnge filen med ditt för- och efternamn.
 
-## [Dagens inspelning](https://zoom.us/rec/share/8JZivogS8f9wonbBCAZdj8Uw2Lp_q-yWkc6vuhg5Ov2b6FIprpvrJeWWwnVNlSnz.FUqVve5Toxg9vtq1)
+## [Dagens inspelning](https://zoom.us/rec/share/I9SnBbBxV26GgeSpC8sg4wLjHv_FJk0bOF163rN69C-4spAeMFCq5gczGN5lfcn6.kReJVDWKSTajwT9i)
 
-Lösenkod: *Coming soon*
+Lösenkod: wdCqs4W^
 
 ## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_05/DAG_05.hiplc" target="_blank">Ladda ner projektfilen</a>
 
