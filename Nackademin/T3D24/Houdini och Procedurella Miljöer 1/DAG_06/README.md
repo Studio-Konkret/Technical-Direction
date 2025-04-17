@@ -3,7 +3,7 @@ Hej och välkommen!
 ## Kursmoment
 Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
-* [104_Intro](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/104_HDA_01)
+* [104_HDA_01](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/104_HDA_01)
 
 ## [Inlämningar](https://www.dropbox.com/scl/fo/7knvcw3uwap66aprfmbmm/AHCxvcDwQrqNRMpdJkxHkrg?rlkey=e38urnzaxjeoqhl5c72hicyxu&st=md5j79fp&dl=0)
 
