@@ -15,8 +15,7 @@ Lösenkod: *Coming soon*
 
 ## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_06/DAG_06.hiplc" target="_blank">Ladda ner projektfilen</a>
 
-
-*Coming soon*
+*Jag har även laddat upp en projektfil som heter "better_fence.hipnc" som visar ett bättre system för staket som är mer troget verkligheten. Den innehåller dock många delar som är överkurs men den finns där att kika på för den som känner sig manad.*
 
 ## Resources:
 - [**Wiki - HDA (Houdini Digital Asset)**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
