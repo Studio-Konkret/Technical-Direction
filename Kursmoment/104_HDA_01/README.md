@@ -49,6 +49,9 @@ Bygg en fence generator HDA. HDAn förväntar sig en kurva och bygger pelare och
 > * [Copy and Transform](https://www.sidefx.com/docs/houdini/nodes/sop/copyxform.html)
 > * [Sweep](https://www.sidefx.com/docs/houdini/nodes/sop/copyxform.html)
 
+#### Till Nackademin
+
+Jag vill att ni gör färdigt en fungerande HDA till nästa lektion. Det kan antingen vara fence generator, eller (rekommenderat) att ni bygger en helt ny HDA för att få ännu mer bekantskap med HDA-bygge. Men ha fence generatorn som backup. Alternativt skulle ni kunna packa ihop vattentornet till en HDA.
 
 &nbsp;
 
