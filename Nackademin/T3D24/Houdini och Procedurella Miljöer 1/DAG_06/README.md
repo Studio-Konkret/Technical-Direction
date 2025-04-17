@@ -18,5 +18,5 @@ Lösenkod: *Coming soon*
 *Coming soon*
 
 ## Resources:
-[**Wiki - HDA (Houdini Digital Asset)**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
-[**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
+- [**Wiki - HDA (Houdini Digital Asset)**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
+- [**Wiki - Attribut**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut)
