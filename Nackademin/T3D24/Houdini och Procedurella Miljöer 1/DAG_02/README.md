@@ -5,9 +5,9 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 * [103_SOP_02](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/103_SOP_02/README.md)
 
-## [Inlämningar](https://www.dropbox.com/scl/fo/7knvcw3uwap66aprfmbmm/AHCxvcDwQrqNRMpdJkxHkrg?rlkey=e38urnzaxjeoqhl5c72hicyxu&st=md5j79fp&dl=0)
+## [Inlämningar](https://drive.google.com/drive/folders/1Xtav1vNc5xot-4UZH8K4UncOpoASECVR?usp=sharing)
 
-- Lämna in hemuppgiften på dropbox (länkad ovan). Namnge filen med ditt för- och efternamn.
+- Lämna in hemuppgiften på Google Drive (länkad ovan). Namnge filen med ditt för- och efternamn.
 
 ## [Dagens inspelning](https://zoom.us/rec/share/bXmzjlXuogdf8Sr0S0Hmoerv5zNIT5GWEStMI3WK6dJhmIJ3u-IsfptIP9f0BhVi.xflDUGNGiMcZIWI2)
 
