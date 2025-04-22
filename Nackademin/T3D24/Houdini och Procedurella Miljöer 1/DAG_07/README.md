@@ -13,7 +13,8 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 Lösenkod: *Coming soon*
 
-## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_06/DAG_06.hiplc" target="_blank">Ladda ner projektfilen</a>
+## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_07/DAG_07.hiplc" target="_blank">Ladda ner projektfilen</a>
+
 
 ## Resources:
 - [**Wiki - HDA (Houdini Digital Asset)**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
