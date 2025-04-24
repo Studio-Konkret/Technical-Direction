@@ -27,3 +27,4 @@ Jag rekommenderar också att följa åtminstone första avsnittet av [Joy of VEX
 ## Underlag:
 - [**Vex isn't scary**](https://www.youtube.com/watch?v=OeaqMWzkyiw)
 - [**Wiki - VEX**](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
+- [**Joy of VEX**](https://tokeru.com/cgwiki/JoyOfVex.html)
