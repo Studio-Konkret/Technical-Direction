@@ -20,6 +20,8 @@ Ex:
 
 Titta igenom och följ [Vex isn't scary](https://www.youtube.com/watch?v=OeaqMWzkyiw) för att öva in syntaxen i VEX.
 
+Jag rekommenderar också att följa åtminstone första avsnittet av [Joy of VEX](https://tokeru.com/cgwiki/JoyOfVex01.html).
+
 &nbsp;
 
 ## Underlag:
