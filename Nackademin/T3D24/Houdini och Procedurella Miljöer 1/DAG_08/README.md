@@ -3,7 +3,7 @@ Hej och välkommen!
 ## Kursmoment
 Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
-* [109_VEX_01](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/104_HDA_02)
+* [109_VEX_01](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/109_VEX_01)
 
 ## [Inlämningar](https://drive.google.com/drive/folders/1Xtav1vNc5xot-4UZH8K4UncOpoASECVR?usp=sharing)
 
