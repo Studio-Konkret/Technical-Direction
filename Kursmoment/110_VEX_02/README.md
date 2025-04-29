@@ -39,4 +39,4 @@ Modellera en manet och animera med VEX.
 ## Underlag:
 - [**Vex isn't scary**](https://www.youtube.com/watch?v=OeaqMWzkyiw)
 - [**Wiki - VEX**](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
-- [**John Kunz - Attribute Glossary**](https://wiki.johnkunz.com/index.php?title=VEX_Attribute_Glossary#What_is_VEX.3F)
+- [**John Kunz - VEX Attribute Glossary**](https://wiki.johnkunz.com/index.php?title=VEX_Attribute_Glossary#What_is_VEX.3F)
