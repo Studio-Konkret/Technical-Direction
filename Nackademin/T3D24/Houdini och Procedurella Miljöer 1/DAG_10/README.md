@@ -11,9 +11,11 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 ## [Dagens inspelning](https://zoom.us/rec/share/DC0MRsAd4bbPkg-qT8I2HOPbUoYBEH8NTPpjNJK_V6wJ2VJdMBglE8AARzZWi79d.OQO_aBQsbs350xbJ)
 
-Lösenkod: #nC.US3E
+Lösenkod: *Coming soon*
 
 ## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_09/DAG_09.hiplc" target="_blank">Ladda ner projektfilen</a>
+
+*Coming soon*
 
 ## Resources:
 - [**Wiki - Heightfields**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HeightFields)
