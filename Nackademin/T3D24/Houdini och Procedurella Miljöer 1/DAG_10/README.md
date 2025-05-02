@@ -1,9 +1,10 @@
 Hej och välkommen!
 
 ## Kursmoment
-Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
-* [111_Heightfields_01](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/111_Heightfields_01)
+Vi kommer att introducera heighftields, systemet för att bygga environments i Houdini.
+
+**Uppgiften:** är att bygga ett enkelt heighfield av noises och masks (minst två av varje) och ev. lägga in extra detaljer med en erosion.
 
 ## [Inlämningar](https://drive.google.com/drive/folders/1Xtav1vNc5xot-4UZH8K4UncOpoASECVR?usp=sharing)
 
