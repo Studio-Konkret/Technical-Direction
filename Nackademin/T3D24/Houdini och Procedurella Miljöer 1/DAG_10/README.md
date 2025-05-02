@@ -2,7 +2,7 @@ Hej och välkommen!
 
 ## Kursmoment
 
-Vi kommer att introducera heighftields, systemet för att bygga environments i Houdini.
+Vi kommer att introducera heightfields, systemet för att bygga environments i Houdini.
 
 **Uppgiften:** är att bygga ett enkelt heighfield av noises och masks (minst två av varje) och ev. lägga in extra detaljer med en erosion.
 
