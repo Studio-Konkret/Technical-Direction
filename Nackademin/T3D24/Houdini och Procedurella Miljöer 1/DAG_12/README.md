@@ -7,7 +7,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 Vi kommer att instansiera geometrier på våra heightfields så jag har förberett ett bibliotek med diverse träd ni kan ladda ner:
 
-## [Ladda ner trädbibliotek](https://drive.google.com/file/d/15vDCtLWq2D80D21SNsQdxk7OTMiR3eAC/view?usp=drive_link)
+## [Ladda ner trädbibliotek](https://drive.google.com/file/d/1UMm2ZfD_DKQj8UKJHL8dIHVmO4Zr70EK/view?usp=sharing)
 
 ## [Inlämningar](https://drive.google.com/drive/folders/1Xtav1vNc5xot-4UZH8K4UncOpoASECVR?usp=sharing)
 
