@@ -13,9 +13,9 @@ Vi kommer att instansiera geometrier på våra heightfields så jag har förbere
 
 - Lämna in hemuppgiften på Google Drive (länkad ovan). Namnge filen med ditt för- och efternamn.
 
-## [Dagens inspelning](https://zoom.us/rec/share/QaPRWFD93QZRkdduEKGMYBgT3iX8MamLLG7XlZVG-OvjOyxd9LTUG-0zzC9PXks.UjbqSP-ThIV79hA7)
+## [Dagens inspelning](https://zoom.us/rec/share/1oUUu8gCJb2ekxIH5SPZcHOA1KYBbjOGkSMyGzl5rdVB8wjOIUWoRPgvRQ6OX7PT.AVo0Jtye0mzi4w0A)
 
-Lösenkod: *Coming soon*
+Lösenkod: Hw1@wUpk
 
 ## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_12/DAG_12.hiplc" target="_blank">Ladda ner projektfilen</a>
 
