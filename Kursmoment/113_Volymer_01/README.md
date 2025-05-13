@@ -27,3 +27,4 @@ Skapa en rauk-sten med SDF.
 ## Underlag:
 - [**Wiki - Volymer**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Volymer) *(se SDF)*
 - [**SideFX - Volumes**](https://www.sidefx.com/docs/houdini/model/volumes.html)
+- [**CGWiki - SDF**]
