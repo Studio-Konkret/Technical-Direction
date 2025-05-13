@@ -18,6 +18,6 @@ Lösenkod: *Coming soon*
 *Coming soon*
 
 ## Resources:
-- [**Wiki - Heightfields**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HeightFields)
-- [**Procedural World Generation of Ubisoft's Far Cry 5**](https://vimeo.com/273986776)
-- [**SideFX - Generate a Landscape from Houdini**](https://www.sidefx.com/docs/houdini/unreal/landscape/generate.html)
+- [**Wiki - Volymer**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Volymer) *(se SDF)*
+- [**SideFX - Volumes**](https://www.sidefx.com/docs/houdini/model/volumes.html)
+- [**Rust Adventure - Intro to SDF**](https://www.rustadventure.dev/introduction-to-signed-distance-fields)
