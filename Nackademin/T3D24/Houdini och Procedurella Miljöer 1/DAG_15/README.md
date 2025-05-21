@@ -7,9 +7,6 @@ Vi börjar med våra Slutprojekt. Se [beskrivning](https://studentportal.nackade
 
 Lösenkod: Q57TL=L@
 
-## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_14/DAG_14.hiplc" target="_blank">Ladda ner projektfilen</a>
+## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_15/DAG_15.hiplc" target="_blank">Ladda ner projektfilen</a>
 
-
-## Resources:
-- [**Wiki - Volymer**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Volymer) *(se SDF)*
-- [**SideFX - Volumes**](https://www.sidefx.com/docs/houdini/model/volumes.html)
+Projektfilen innehåller kladd jag gjort inspirerat av era idéer. Så ladda ner och se om ni kan dra nytta av nånting :)
