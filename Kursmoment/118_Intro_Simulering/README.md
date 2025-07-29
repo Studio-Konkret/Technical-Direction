@@ -12,7 +12,7 @@ sprider ett attribut över en geometri
 
 ### Hemuppgift
 
-Vi bygger en enkel partikelsolver som simulerar partiklar med hjälp av en vektor noise.
+Vi bygger en enkel partikelsolver som simulerar partiklar med hjälp av ett vektor noise.
 
 
 
