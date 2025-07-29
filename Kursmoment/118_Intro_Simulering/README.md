@@ -7,7 +7,7 @@ Vi går igenom hur simuleringar fungerar med hjälp av sopsolver.
 
 ### Miniuppgift
 
-Vi lägger in sops och ser effekten i solvern. Vi gör en väldigt enkelt infection solver som 
+Vi lägger in sops och ser effekten i solvern. Vi gör en väldigt enkel infection solver som 
 sprider ett attribut över en geometri
 
 ### Hemuppgift
