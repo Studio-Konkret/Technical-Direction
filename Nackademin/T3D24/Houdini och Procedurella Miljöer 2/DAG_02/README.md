@@ -20,9 +20,6 @@ Lösenkod: N/A
 
 
 ## Resources:
-- [**Houdini HScript and Channel Referencing**](https://youtube.com/playlist?list=PLSET4TyKEfn9TLeA9wunf_-yEbhg-Rctf&si=P9WlndEVBUtCFyKj)
-- [**Using Expressions in Parameters**](https://www.houdinikitchen.net/2019/05/05/using-expressions-in-parameters/)
-- [**Wiki - Grupper**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Grupper)
-- [**John Kunz - Attribute Glossary**](https://wiki.johnkunz.com/index.php?title=VEX_Attribute_Glossary)
-- [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP)
-- [**Wiki - UI & Noder**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
+- [**Wiki - VEX**](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
+- [**CGWiki - Joy of VEX**](https://tokeru.com/cgwiki/JoyOfVex.html)
+- 
