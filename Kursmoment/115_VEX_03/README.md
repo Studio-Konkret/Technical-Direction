@@ -11,7 +11,7 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl1bnc4c29pYnY5cW1seWt1dmNjNnlvZjRjNXQ2ZjFkbzcweGJzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkfYDlp4qUPgkYEbpl/giphy.gif" align="right" width="200">
 
-Deformera geometri över tid med sinus/cosinus.
+Deformera geometri över tid med sinus och cosinus.
 
 Kan du använda dig av @P.y för att offsetta animationen längst geometrins höjd?
 
@@ -29,3 +29,4 @@ Använd kanaler/parametrar för att höja/sänka skalan på vågornas frekvens, 
 - [**Wiki - VEX**](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
 - [**CGWiki - Sine**](https://tokeru.com/cgwiki/JoyOfVex01.html#sine)
 - [**CGWiki - Rotate with sin and cos**](https://tokeru.com/cgwiki/HoudiniVex1.html#rotate_geometry_with_sin_and_cos)
+
