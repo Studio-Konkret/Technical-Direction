@@ -17,7 +17,8 @@ Instansiera ut ett gäng geometrier på punkter. Se till att geometrierna riktar
 
 ## Underlag:
 - [**Wiki - VEX**](https://github.com/Studio-Konkret/Technical-Direction/wiki/VEX)
-- [**Brackeys - Game Math Theory (VECTORS)**]
+- [**Brackeys - Game Math Theory (VECTORS)**](https://www.youtube.com/watch?v=wXI9_olSrqo)
 - [**Math for Game Dev - A Crash Course in Vectors**](https://www.youtube.com/watch?v=_z2Y715-3wM)
+
 
 
