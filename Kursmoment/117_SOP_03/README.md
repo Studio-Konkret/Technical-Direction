@@ -24,9 +24,11 @@ I en ForEach Primitive, använd attributet för att animera varje polygon.
 
 ### Hemuppgift
 
-I en ForLoop with Feedback, generera 10 olika versioner av sten.
+I en ForLoop with Feedback, generera 10 olika versioner av sten eller valfri typ av objekt.
 
-Offsetta ett noise med en referens till iterationsnumret för att variera resultatet.
+Ni kan exemplevis offsetta ett noise med en referens till iterationsnumret för att variera resultatet.
+
+
 
 `detail("path_till_metadata_nod","iteration",0)`
 
@@ -41,3 +43,4 @@ Kolla DAG_03 och ladda ner exemplefilen "Honorable_mentions" och se om du hittar
 ## Underlag:
 - [**Wiki - ForLoop**](https://github.com/Studio-Konkret/Technical-Direction/wiki/ForLoop)
 - [**CGWiki - ForLoop**](https://tokeru.com/cgwiki/ForLoops.html)
+
