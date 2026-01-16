@@ -36,7 +36,7 @@ Tips på hur ni kan expandera resultatet:
 
 #### Valfritt
 
-Kolla DAG_03 och ladda ner exemplefilen "Honorable_mentions" och se om du hittar en nod som inspirerar dig till att göra nåt kul att visa.
+Kolla DAG_04 och ladda ner exemplefilen "Honorable_mentions" och se om du hittar en nod som inspirerar dig till att göra nåt kul att visa.
 
 &nbsp;
 
@@ -45,6 +45,7 @@ Kolla DAG_03 och ladda ner exemplefilen "Honorable_mentions" och se om du hittar
 ## Underlag:
 - [**Wiki - ForLoop**](https://github.com/Studio-Konkret/Technical-Direction/wiki/ForLoop)
 - [**CGWiki - ForLoop**](https://tokeru.com/cgwiki/ForLoops.html)
+
 
 
 
