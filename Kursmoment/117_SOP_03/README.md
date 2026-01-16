@@ -28,7 +28,8 @@ I en ForLoop with Feedback, generera 10 olika versioner av sten eller valfri typ
 
 Ni kan exemplevis offsetta ett noise med en referens till iterationsnumret för att variera resultatet.
 
-
+Tips på hur ni kan expandera resultatet:
+- Bygg upp en liten miljö likt [Dag_05](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/DAG_05) i första Houdini-kursen
 
 `detail("path_till_metadata_nod","iteration",0)`
 
@@ -43,4 +44,5 @@ Kolla DAG_03 och ladda ner exemplefilen "Honorable_mentions" och se om du hittar
 ## Underlag:
 - [**Wiki - ForLoop**](https://github.com/Studio-Konkret/Technical-Direction/wiki/ForLoop)
 - [**CGWiki - ForLoop**](https://tokeru.com/cgwiki/ForLoops.html)
+
 
