@@ -12,7 +12,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 ## Dagens inspelning
 *Kolla discord*
 
-## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/DAG_03/2_DAG_03.hiplc" target="_blank">Ladda ner projektfilen</a>
+## Projektfil (*coming soon*)
 
 
 
