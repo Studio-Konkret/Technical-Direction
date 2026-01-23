@@ -13,13 +13,13 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 ## Dagens inspelning
 *Kolla discord*
 
-## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/DAG_05/2_DAG_05.hiplc" target="_blank">Ladda ner projektfilen</a>
+## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/DAG_06/2_DAG_06.hiplc" target="_blank">Ladda ner projektfilen</a>
+
 
 
 
 
 ## Resources:
-- [**Wiki - Intro Simulering**](hhttps://github.com/Studio-Konkret/Technical-Direction/wiki/Intro-Simulering)
-- [**CGWiki - Solver SOP**](https://tokeru.com/cgwiki/The_solver_sop.html)
-- [**SideFX - Solver SOP**](https://www.sidefx.com/docs/houdini/nodes/sop/solver.html)
+- [**Wiki - POP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
+- [**CGWiki - Dynamics (POP)**](https://tokeru.com/cgwiki/HoudiniDops.html#pops)
 
