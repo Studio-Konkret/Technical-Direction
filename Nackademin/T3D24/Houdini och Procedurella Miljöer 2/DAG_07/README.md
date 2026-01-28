@@ -23,4 +23,4 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 ## Resources:
 - [**Wiki - POP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
 - [**CGWiki - Dynamics (POP)**](https://tokeru.com/cgwiki/HoudiniDops.html#pops)
-
+- [**CGWiki - JoyOfVEX 9**](https://tokeru.com/cgwiki/JoyOfVex09.html#cross_product)
