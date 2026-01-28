@@ -8,7 +8,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 ## [Inlämningar](https://drive.google.com/drive/folders/1Xtav1vNc5xot-4UZH8K4UncOpoASECVR?usp=sharing)
 
-- Lämna in hemuppgiften på Google Drive (länkad ovan). Namnge filen med ditt för- och efternamn.
+- Lämna in hemuppgiften på Google Drive (länkad ovan). Lägg filer i en mapp med ditt för- och efternamn.
 
 ## Dagens inspelning
 *Kolla discord*
