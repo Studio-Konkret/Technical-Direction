@@ -23,3 +23,4 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 ## Resources:
 - [**Wiki - Vellum**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Vellum)
 - [**CGWiki - Vellum**](https://tokeru.com/cgwiki/HoudiniVellum.html)
+- [**Houdini - VAT to Unreal**](https://www.youtube.com/watch?v=F8y0QVmdpnc)
