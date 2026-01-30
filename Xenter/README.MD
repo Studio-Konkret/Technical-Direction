@@ -15,11 +15,11 @@ Vi har också en Wikisida som det kommer länkas till under de olika uppgifterna
 
 Här är schemat: länk
 
-DAG 1 - Kurs datum tid
+DAG 1 - Intodutktion 2/2
 
-DAG 2 -  Kurs datum tid
+DAG 2 - SOPs Intro 4/2
 
-DAG 3 -  Kurs datum tid
+DAG 3 - SOPs fortsättning 6/2
 
 DAG 4 -  Kurs datum tid
 
