@@ -1,22 +1,14 @@
+Hej!
 
-# **Dag 6 - Heightfields 101**
-___
-### Attribut
-Vi pratar om Heightfields 
-
-Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/111_Heightfields_01)
-
-___
-Hemuppgift och miniuppgifter hittar ni under kurssidan
+**Dag X - INTRO**
 
 ___
 ### **Inspelning och hip-fil**
-[hip-fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag6/dag6.hipnc)
+**[Dagens Inspelning](Här är länken till inspelning)**  - Här lägger du upp Inspelning efter Dagens
 
-[inspelning](https://us02web.zoom.us/rec/share/oYg5sK8rrP954tTZaNAQrbxL36qbKY6ZHBCGAhi888otPoAlOkYTN0PAiMWhMA6s.rVDpFZlCzTxLW-ON)
 
-Lösenkod: 9j+F81m+
+Lösenkod: mb7fTW%v
 ___
 
-
+Dagens **[Hipfil]()** - Här är länken till hipfilen
 

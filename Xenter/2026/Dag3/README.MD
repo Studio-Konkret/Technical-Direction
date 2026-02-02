@@ -1,21 +1,14 @@
+Hej!
 
-# **Dag 3 - Attribut 101**
-___
-### Attribut
-Vi börjar med attrbut
-
-Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/106_Attribut_01)
-
-___
-Hemuppgift och miniuppgifter hittar ni under kurssidan
+**Dag X - INTRO**
 
 ___
 ### **Inspelning och hip-fil**
-[hipfil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag3/Dag3.hipnc)
+**[Dagens Inspelning](Här är länken till inspelning)**  - Här lägger du upp Inspelning efter Dagens
 
-[inspelning](https://us02web.zoom.us/rec/share/vRuWPy5PadfiB7r8qKial70hQZ6N4fhKJKGuNjcqbz-EehIwK4SybMSp5r99FVFU.cd3d6rHHXDxDj_Kx)
-Lösenkod: %i#Ey4DC
+
+Lösenkod: mb7fTW%v
 ___
 
-
+Dagens **[Hipfil]()** - Här är länken till hipfilen
 

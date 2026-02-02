@@ -1,23 +1,14 @@
+Hej!
 
-# **Dag 14 - Vellum**
-___
-
-Vi pratar om Vellum, simulering med mjuka material såsom typ, soft bodies, hår etc
-
-
-Här är dagens [kurs](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/121_Vellum_01)
-
-___
-Hemuppgift och miniuppgifter hittar ni under kurssidan
+**Dag X - INTRO**
 
 ___
 ### **Inspelning och hip-fil**
-[Inspelning](https://us02web.zoom.us/rec/share/25tSNH2wOPAXgd_8oNv3t16-07LB0Abjq6d6HP1Y-1PpiYCftjnoe5pbGzPS2P8.fsHsWFi_VT7KWQda)
+**[Dagens Inspelning](Här är länken till inspelning)**  - Här lägger du upp Inspelning efter Dagens
 
-Lösen:Lösenkod: rM.qY9k9
 
-[Hipfil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/Dag14/dag14.hipnc)
+Lösenkod: mb7fTW%v
 ___
 
-
+Dagens **[Hipfil]()** - Här är länken till hipfilen
 

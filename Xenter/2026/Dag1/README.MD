@@ -7,8 +7,7 @@ ___
 **[Dagens Inspelning](Här är länken till inspelning)**  - Här lägger du upp Inspelning efter Dagens
 
 
-Lösenkod: mb7fTW%v
 ___
 
-Dagens **[Hipfil]()** - Här är länken till hipfilen
+
 
