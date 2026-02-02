@@ -15,38 +15,4 @@ Vi har också en Wikisida som det kommer länkas till under de olika uppgifterna
 
 Här är schemat: länk
 
-DAG 1 - Intodutktion 2/2
 
-DAG 2 - SOPs Intro 4/2
-
-DAG 3 - SOPs fortsättning 6/2
-
-DAG 4 -  Kurs datum tid
-
-DAG 5 -  Kurs datum tid
-
-DAG 6 -  Kurs datum tid
-
-DAG 7 - Kurs datum tid
-
-DAG 8 -  Kurs datum tid
-
-DAG 9 -  Kurs datum tid
-
-DAG 10 -  Kurs datum tid
-
-DAG 11 -  Kurs datum tid
-
-DAG 12 -  Kurs datum tid
-
-DAG 13 -  Kurs datum tid
-
-DAG 14 -  Kurs datum tid
-
-DAG 15 -  Kurs datum tid
-
-DAG 16 -  Kurs datum tid
-
-DAG 17 -  Kurs datum tid
-
-DAG 18 -  Kurs datum tid
