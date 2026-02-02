@@ -1,6 +1,6 @@
 Hej!
 
-**Dag X - INTRO**
+**Dag 1 - INTRO**
 
 
 Dagens kurs:102_SOP_01
