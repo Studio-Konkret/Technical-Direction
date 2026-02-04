@@ -3,7 +3,7 @@ Hej och välkommen!
 ## Kursmoment
 Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
-* [123_RBD_01_01](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/123_RBD_01/README.md)
+* [123_RBD_01](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/123_RBD_01/README.md)
 
 
 ## [Inlämningar](https://drive.google.com/drive/folders/1Xtav1vNc5xot-4UZH8K4UncOpoASECVR?usp=sharing)
@@ -13,7 +13,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 ## Dagens inspelning
 *Kolla discord*
 
-## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/DAG_08/2_DAG_08.hiplc" target="_blank">Ladda ner projektfilen</a>
+## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/DAG_09/2_DAG_09.hiplc" target="_blank">Ladda ner projektfilen</a>
 
 
 
@@ -21,6 +21,6 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 
 ## Resources:
-- [**Wiki - Vellum**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Vellum)
-- [**CGWiki - Vellum**](https://tokeru.com/cgwiki/HoudiniVellum.html)
-- [**Houdini - VAT to Unreal**](https://www.youtube.com/watch?v=F8y0QVmdpnc)
+- [**Wiki - RBD**](https://github.com/Studio-Konkret/Technical-Direction/wiki/RBD)
+- [**CGWiki - RBD**](https://tokeru.com/cgwiki/HoudiniDops.html#rigid_body_dynamics)
+- [**Inside the Mind - Houdini Rigid Bodies**](https://youtube.com/playlist?list=PLopImPTpJclQLv2J_RuBpwRmLj72z1JjI&si=6pBtI0oI0s_6WiO3)
