@@ -33,7 +33,7 @@ ___
 
 ### Hemuppgift
 
-Bygg ett vattentorn procedurellt, med en kontroll-null som styr den. Skicka en screen-recording på när du drar i parametrarna i din kontroll-null för att visa att den styr vattentornet.
+Bygg ett vattentorn, fyrtorn, väderkvar eller liknande procedurellt, med en kontroll-null som styr den. Skicka en screen-recording på när du drar i parametrarna i din kontroll-null för att visa att den styr vattentornet.
 
 
 &nbsp;
@@ -41,3 +41,4 @@ Bygg ett vattentorn procedurellt, med en kontroll-null som styr den. Skicka en s
 ## Underlag:
 - [**Houdini HScript and Channel Referencing**](https://youtube.com/playlist?list=PLSET4TyKEfn9TLeA9wunf_-yEbhg-Rctf&si=P9WlndEVBUtCFyKj)
 - [**Using Expressions in Parameters**](https://www.houdinikitchen.net/2019/05/05/using-expressions-in-parameters/)
+
