@@ -1,3 +1,26 @@
-Innehållet kommer efter lektionen.
+Hej och välkommen!
 
-Ladda ner animationen från denna mapp
+## Kursmoment
+Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
+
+* [125_Pyro_01](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/125_Pyro_01/README.md)
+
+
+## [Inlämningar](https://drive.google.com/drive/folders/1Xtav1vNc5xot-4UZH8K4UncOpoASECVR?usp=sharing)
+
+- Lämna in hemuppgiften på Google Drive (länkad ovan). Lägg filer i en mapp med ditt för- och efternamn.
+
+## Dagens inspelning
+*Kolla discord*
+
+## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/DAG_09/2_DAG_09.hiplc" target="_blank">Ladda ner projektfilen</a>
+
+
+
+
+
+
+## Resources:
+- [**Wiki - Pyro**](https://github.com/Studio-Konkret/Technical-Direction/wiki/RBD)
+- [**CGWiki - Pyro**](https://tokeru.com/cgwiki/HoudiniDops.html#rigid_body_dynamics)
+- [**Inside the Mind - Vector Field**](https://youtube.com/playlist?list=PLopImPTpJclQLv2J_RuBpwRmLj72z1JjI&si=6pBtI0oI0s_6WiO3)
