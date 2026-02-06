@@ -6,6 +6,9 @@ ___
 ### **Inspelning och hip-fil**
 Dagens Inspelning 
 
+https://us02web.zoom.us/rec/share/o3qbYUCVrtt5jFPWaTn1ZdfhtqtBB7ceNCu1Tb0zWgdnccO79yPvgltoMIs-0IbH.hyVVUMrz6sOGVECj 
+Lösenkod: F4jET=H@
+
 
 ___
 
