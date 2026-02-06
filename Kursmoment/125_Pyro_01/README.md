@@ -14,4 +14,5 @@ Ta in en karaktärsanimation (vi kommer förse er med en) och modellera en fakla
 &nbsp;
 
 ## Underlag:
-- [**Wiki - VELLUM**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Vellum)
+- [**Wiki - Pyro**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Pyro)
+
