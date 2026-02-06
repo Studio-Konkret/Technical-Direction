@@ -22,5 +22,5 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 ## Resources:
 - [**Wiki - Pyro**](https://github.com/Studio-Konkret/Technical-Direction/wiki/RBD)
-- [**CGWiki - Pyro**](https://tokeru.com/cgwiki/HoudiniDops.html#rigid_body_dynamics)
-- [**Inside the Mind - Vector Field**](https://youtube.com/playlist?list=PLopImPTpJclQLv2J_RuBpwRmLj72z1JjI&si=6pBtI0oI0s_6WiO3)
+- [**CGWiki - Pyro**](https://tokeru.com/cgwiki/HoudiniDops.html#pyro)
+- [**Inside the Mind - Vector Field**](https://www.youtube.com/watch?v=vAbAbfeg8gg)
