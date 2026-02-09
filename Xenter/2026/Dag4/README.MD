@@ -14,7 +14,10 @@ https://github.com/Studio-Konkret/Technical-Direction/wiki/Elementtyper%5CKlasse
 
 ___
 ### **Inspelning och hip-fil**
-Dagens Inspelning 
+Dagens Inspelning :
+
+
+hip fil: https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag4/dag4.hipnc
 
 
 ___
