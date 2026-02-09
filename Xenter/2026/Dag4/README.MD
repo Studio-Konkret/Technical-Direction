@@ -19,7 +19,9 @@ Dagens Inspelning :
 
 hip fil: https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag4/dag4.hipnc
 
-
+zoom:
+https://us02web.zoom.us/rec/share/qpxQhjDVgdcdLyxxSGGZjB-IIbuInIwxxqumUsHPFwXD5pbvNe6vlnxuHvy6AlYe.9oB9TJSW22rnHdAG 
+Lösenkod: Dxp7p%Zr
 ___
 
 
