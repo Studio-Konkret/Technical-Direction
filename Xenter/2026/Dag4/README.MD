@@ -10,7 +10,7 @@ https://github.com/Studio-Konkret/Technical-Direction/wiki/Attribut
 
 Klasser (polygon, punkt etc):
 
-ttps://github.com/Studio-Konkret/Technical-Direction/wiki/Elementtyper%5CKlasser
+https://github.com/Studio-Konkret/Technical-Direction/wiki/Elementtyper%5CKlasser
 
 ___
 ### **Inspelning och hip-fil**
