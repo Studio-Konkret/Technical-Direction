@@ -11,7 +11,7 @@ Ni ska generera procedurella texture-maps som ska efterlikna ett material från 
 ## Dagens inspelning
 *Kolla discord*
 
-## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/DAG_10/2_DAG_10.hiplc" target="_blank">Ladda ner projektfilen</a>
+## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/DAG_11/2_DAG_11.hiplc" target="_blank">Ladda ner projektfilen</a>
 
 
 
@@ -19,6 +19,6 @@ Ni ska generera procedurella texture-maps som ska efterlikna ett material från 
 
 
 ## Resources:
-- [**Wiki - Pyro**](https://github.com/Studio-Konkret/Technical-Direction/wiki/RBD)
+- [**Wiki - COP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/COP)
 - [**CGWiki - Pyro**](https://tokeru.com/cgwiki/HoudiniDops.html#pyro)
 - [**Inside the Mind - Vector Field**](https://www.youtube.com/watch?v=vAbAbfeg8gg)
