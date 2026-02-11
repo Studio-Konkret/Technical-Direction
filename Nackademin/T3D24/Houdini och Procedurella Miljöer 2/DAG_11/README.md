@@ -19,6 +19,6 @@ Ni ska generera procedurella texture-maps som ska efterlikna ett material från 
 
 
 ## Resources:
-- [**Wiki - COP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/COP)
+- [**Wiki - COPs**](https://github.com/Studio-Konkret/Technical-Direction/wiki/COPs)
 - [**CGWiki - Pyro**](https://tokeru.com/cgwiki/HoudiniDops.html#pyro)
 - [**Inside the Mind - Vector Field**](https://www.youtube.com/watch?v=vAbAbfeg8gg)
