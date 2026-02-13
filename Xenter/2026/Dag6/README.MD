@@ -19,7 +19,10 @@ hip:
 https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag6/Dag6_hda.hipnc
 
 
-Dagens Inspelning 
+Dagens Inspelning:
+
+https://us02web.zoom.us/rec/share/3ClG_RlM90jX_2HFsyTne-lyhoPxuneI2611x3cKgByawRuhfMpzUKAWRigEOpVg.6SCIeIoG_tnEHi7w 
+Lösenkod: 7uy@a.qZ
 
 
 ___
