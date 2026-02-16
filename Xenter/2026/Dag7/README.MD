@@ -3,8 +3,8 @@ Hej!
 **Dag 7 - HDA (Houdini Digital Assets)**
 
 ### **Wiki och länkar**
-[**Wiki - HDA**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
-[**Wiki - HDA (UE)**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Unreal-Engine))
+- [**Wiki - HDA**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Houdini-Digital-Asset))
+- [**Wiki - HDA (UE)**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HDA-(Unreal-Engine))
 
 ___
 ### **Inspelning och hip-fil**
