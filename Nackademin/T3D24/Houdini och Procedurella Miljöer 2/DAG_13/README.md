@@ -1,5 +1,5 @@
 ## Uppgift
-Idag börjar ni med era slutprojekt. 
+Idag börjar ni med era [slutprojekt](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Nackademin/T3D24/Houdini%20och%20Procedurella%20Milj%C3%B6er%202/SLUTPROJEKT). 
 
 ## Dagens inspelning
 *Kolla discord*
