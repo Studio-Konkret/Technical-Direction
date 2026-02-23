@@ -14,4 +14,4 @@ ___
 ### Resurser
 - [**Wiki - COPs**](https://github.com/Studio-Konkret/Technical-Direction/wiki/COP-(Copernicus))
 - [**SideFX - Karma User Guide**](https://www.sidefx.com/docs/houdini/solaris/kug/index.html)
-- 
+- [**Tutorial Playlist - COPs for Material Generation**]
