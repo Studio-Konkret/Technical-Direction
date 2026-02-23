@@ -1,6 +1,6 @@
 Hej!
 
-**Dag X - INTRO**
+**Dag 10 - COPs och Procedurell Texturgenerering**
 
 ___
 ### **Inspelning och hip-fil**
