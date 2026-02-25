@@ -2,6 +2,8 @@ Hej!
 
 **Dag 11 - VEX**
 
+https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/109_VEX_01
+
 ___
 ### **Inspelning och hip-fil**
 
