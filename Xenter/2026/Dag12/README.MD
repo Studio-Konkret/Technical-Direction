@@ -10,7 +10,7 @@ https://us02web.zoom.us/rec/share/3ljlzPkWIWRlEVEflfFehUhJGcM6VrsUf8Pz_zIDkdloRY
 Lösenkod: p0fjbt=E
 
 
-
+https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag12/dag12.hipnc
 
 ___
 
