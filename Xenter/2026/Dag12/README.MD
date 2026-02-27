@@ -14,5 +14,5 @@ https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag1
 
 ___
 
-
+https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/110_VEX_02
 
