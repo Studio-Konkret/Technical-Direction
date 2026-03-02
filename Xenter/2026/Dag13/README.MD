@@ -14,5 +14,8 @@ Lösenkod: k619?dpm
 
 ___
 
-
+## Resurser:
+- [Wiki- Volymer](https://github.com/Studio-Konkret/Technical-Direction/wiki/Volymer)
+- [Wiki COPs (baking)](https://github.com/Studio-Konkret/Technical-Direction/wiki/COP-(Copernicus)#high-low-poly-baking-exempel-workflow)
+https://www.youtube.com/watch?v=XVAsAfmorYM
 
