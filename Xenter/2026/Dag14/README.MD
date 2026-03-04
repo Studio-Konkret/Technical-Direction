@@ -4,7 +4,7 @@ Hej!
 
 ___
 ### **Inspelning och hip-fil**
-Dagens Inspelning 
+https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag14/dag14.hipnc
 
 
 ___
