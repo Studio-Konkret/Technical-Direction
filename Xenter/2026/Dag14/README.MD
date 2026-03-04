@@ -1,11 +1,15 @@
 Hej!
 
 **Dag 14 - INTRO SIMULERING**
-Dagens kurs
+Dagens kurs:
 
-WIKI: https://github.com/Studio-Konkret/Technical-Direction/wiki/Intro-Simulering
 
 https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/118_Intro_Simulering
+
+WIKI:
+
+https://github.com/Studio-Konkret/Technical-Direction/wiki/Intro-Simulering
+
 
 
 
