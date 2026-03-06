@@ -18,4 +18,4 @@ ___
 - [Wiki - POP](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
 - [CGWiki - POP](https://tokeru.com/cgwiki/HoudiniDops.html#pops)
 - [Inside the mind - Intro to POP's](https://www.youtube.com/watch?v=FuSBTjg81Nk)
-- [John Kunz- POP Attributes](https://wiki.johnkunz.com/index.php?title=VEX_Attribute_Glossary#DOP_Particle_Attributes)
+- [John Kunz - POP Attributes](https://wiki.johnkunz.com/index.php?title=VEX_Attribute_Glossary#DOP_Particle_Attributes)
