@@ -13,6 +13,6 @@ Lösenkod: Q&E4y!qK
 ___
 
 ## Resurser:
-- [Wiki- POP](https://github.com/Studio-Konkret/Technical-Direction/wiki/Volymer)
+- [Wiki - POP](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
 - [CGWiki - POP](https://tokeru.com/cgwiki/HoudiniDops.html#pops)
 - [Inside the mind - Intro to POP's](https://www.youtube.com/watch?v=FuSBTjg81Nk)
