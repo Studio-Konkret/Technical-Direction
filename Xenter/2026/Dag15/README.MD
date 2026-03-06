@@ -2,6 +2,8 @@ Hej!
 
 **Dag 15 - POP (Partikelsimulering)**
 
+[Hemuppgift](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/120_POP_02)
+
 ___
 ### **Inspelning och hip-fil**
 [Dagens Inspelning](https://us02web.zoom.us/rec/share/3EJWAFDIgz5linGkRCHDhSBhNodoxPSYzCpndkh1CntIEZ4ooxKEIsNFISfZwQnc.Jn3unHc683C6zGBJ )
