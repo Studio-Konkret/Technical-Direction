@@ -8,15 +8,10 @@ ___
 
 Lösenkod: Q&E4y!qK
 
-[HIP-fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag13/Dag_13.hipnc)
-
-[texturer](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Xenter/2026/Dag13/textures)
+[HIP-fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag15/Dag_15.hipnc)
 
 ___
 
 ## Resurser:
-- [Wiki- Volymer](https://github.com/Studio-Konkret/Technical-Direction/wiki/Volymer)
-- [Wiki COPs (baking)](https://github.com/Studio-Konkret/Technical-Direction/wiki/COP-(Copernicus)#high-low-poly-baking-exempel-workflow)
-
-- https://www.youtube.com/watch?v=XVAsAfmorYM
-
+- [Wiki- POP](https://github.com/Studio-Konkret/Technical-Direction/wiki/Volymer)
+- [CGWiki - POP](https://tokeru.com/cgwiki/HoudiniDops.html#pops)
