@@ -10,12 +10,11 @@ ___
 
 Lösenkod: qFw=LD74
 
-[HIP-fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag15/Dag_15.hipnc)
+[HIP-fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag%2016/Dag_16.hipnc)
 
 ___
 
 ## Resurser:
-- [Wiki - POP](https://github.com/Studio-Konkret/Technical-Direction/wiki/POP)
-- [CGWiki - POP](https://tokeru.com/cgwiki/HoudiniDops.html#pops)
-- [Inside the mind - Intro to POP's](https://www.youtube.com/watch?v=FuSBTjg81Nk)
-- [John Kunz - POP Attributes](https://wiki.johnkunz.com/index.php?title=VEX_Attribute_Glossary#DOP_Particle_Attributes)
+- [Wiki - Vellum](https://github.com/Studio-Konkret/Technical-Direction/wiki/Vellum)
+- [CGWiki - Vellum](https://tokeru.com/cgwiki/HoudiniVellum.html)
+- [John Kunz - Vellum Attributes](https://wiki.johnkunz.com/index.php?title=VEX_Attribute_Glossary#DOP_Vellum_Point_Attributes)
