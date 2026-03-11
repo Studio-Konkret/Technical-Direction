@@ -6,9 +6,9 @@ Hej!
 
 ___
 ### **Inspelning och hip-fil**
-[Dagens Inspelning](https://us02web.zoom.us/rec/share/3EJWAFDIgz5linGkRCHDhSBhNodoxPSYzCpndkh1CntIEZ4ooxKEIsNFISfZwQnc.Jn3unHc683C6zGBJ )
+[Dagens Inspelning](https://us02web.zoom.us/rec/share/y7Tmc0pTXyz4n-rKSZR36ceyeR3WpGDdEogeuOJwztNNY4GZAC3uAffzodfasPzv.d1THpPi5BsPppT45 )
 
-Lösenkod: Q&E4y!qK
+Lösenkod: WSq2tWj+
 
 [HIP-fil](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Xenter/2026/Dag17/Dag_17.hipnc)
 
