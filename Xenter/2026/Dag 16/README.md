@@ -2,7 +2,7 @@ Hej!
 
 **Dag 16 - Vellum**
 
-[Hemuppgift](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/120_POP_02)
+[Hemuppgift](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/121_Vellum_01)
 
 ___
 ### **Inspelning och hip-fil**
