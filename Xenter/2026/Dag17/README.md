@@ -2,7 +2,7 @@ Hej!
 
 **Dag 17 - RBD (Rigid Body Dynamics)**
 
-[Hemuppgift](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/120_POP_02)
+[Hemuppgift](https://github.com/Studio-Konkret/Technical-Direction/tree/main/Kursmoment/123_RBD_01)
 
 ___
 ### **Inspelning och hip-fil**
