@@ -3,7 +3,7 @@ Hej och välkommen!
 ## Kursmoment
 Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgift.
 
-* [125_Pyro_01](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/125_Pyro_01/README.md)
+* [102_SOP_01](https://github.com/Studio-Konkret/Technical-Direction/blob/main/Kursmoment/102_SOP_01/README.md)
 
 
 ## [Inlämningar](https://drive.google.com/drive/folders/1Xtav1vNc5xot-4UZH8K4UncOpoASECVR?usp=sharing)
