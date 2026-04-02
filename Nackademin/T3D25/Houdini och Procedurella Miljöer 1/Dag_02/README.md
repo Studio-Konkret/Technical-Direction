@@ -19,6 +19,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 
 ## Resources:
-- [**Wiki - Pyro**](https://github.com/Studio-Konkret/Technical-Direction/wiki/RBD)
-- [**CGWiki - Pyro**](https://tokeru.com/cgwiki/HoudiniDops.html#pyro)
-- [**Inside the Mind - Vector Field**](https://www.youtube.com/watch?v=vAbAbfeg8gg)
+- [**Wiki - UI & Noder**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
+- [**Shortcuts**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Shortcuts)
+- [**Houdini Isn't Scary**](https://www.youtube.com/watch?v=Tsv8UGqDibc)
+- [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP) 
