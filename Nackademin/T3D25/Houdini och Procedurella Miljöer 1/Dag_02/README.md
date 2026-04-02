@@ -10,8 +10,6 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 - Lämna in hemuppgiften på Google Drive (länkad ovan). Lägg filer i en mapp med ditt för- och efternamn.
 
-## Dagens inspelning
-*Kolla discord*
 
 ## <a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/main/Nackademin/T3D25/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/Dag_02/Dag_02.hiplc" target="_blank">Ladda ner projektfilen</a>
 
