@@ -22,4 +22,5 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 - [**Wiki - UI & Noder**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
 - [**Shortcuts**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Shortcuts)
 - [**Houdini Isn't Scary**](https://www.youtube.com/watch?v=Tsv8UGqDibc)
-- [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP) 
+- [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP)
+- [**Wiki - Felsökning**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Fels%C3%B6kning-(WIP))
