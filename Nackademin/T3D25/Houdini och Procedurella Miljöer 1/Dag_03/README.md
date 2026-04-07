@@ -19,8 +19,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 
 
 ## Resources:
-- [**Wiki - UI & Noder**](https://github.com/Studio-Konkret/Technical-Direction/wiki/UI-&-Noder)
-- [**Shortcuts**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Shortcuts)
-- [**Houdini Isn't Scary**](https://www.youtube.com/watch?v=Tsv8UGqDibc)
-- [**Wiki - SOP**](https://github.com/Studio-Konkret/Technical-Direction/wiki/SOP)
-- [**Wiki - Felsökning**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Fels%C3%B6kning-(WIP))
+- [**Wiki - Grupper**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Grupper)
+- [**Wiki - Elementtyper/Klasser**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Elementtyper%5CKlasser)
+- [**Wiki - Ordlista**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Ordlista)
+- [**CGWiki - Points, Vertecies and Primitives**](https://tokeru.com/cgwiki/Points_and_Verts_and_Prims.html)
