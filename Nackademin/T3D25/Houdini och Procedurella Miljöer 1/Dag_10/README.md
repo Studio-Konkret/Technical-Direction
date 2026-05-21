@@ -11,7 +11,7 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 - Lämna in hemuppgiften på Google Drive (länkad ovan). Lägg filer i en mapp med ditt för- och efternamn.
 
 
-<a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/23a428bc85704d6578920c1d95d938737794770a/Nackademin/T3D25/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/Dag_08/dag_08.hiplc" target="_blank">Ladda ner projektfilen</a>
+<a href="https://raw.githubusercontent.com/Studio-Konkret/Technical-Direction/0c6b68b0b390c83a8cd10395edb3a1a56809a4bf/Nackademin/T3D25/Houdini%20och%20Procedurella%20Milj%C3%B6er%201/Dag_10/dag_10.hiplc" target="_blank">Ladda ner projektfilen</a>
 
 
 
