@@ -19,5 +19,5 @@ Här kan du se vad vi går igenom under lektionen, samt dagsuppgift och hemuppgi
 &nbsp;
 
 ## Underlag:
-- [**Wiki - HeightFields**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Heightfields)
-- [**SideFX - HeightFields**](https://www.sidefx.com/docs/houdini/model/heightfields.html)
+- [**Wiki - Instansiering**](https://github.com/Studio-Konkret/Technical-Direction/wiki/Instansiering)
+- [**Wiki - HeightFields**](https://github.com/Studio-Konkret/Technical-Direction/wiki/HeightFields)
